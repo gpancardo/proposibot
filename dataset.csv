@@ -1,504 +1,504 @@
 Sentence,General,Affirmative,Structure
-Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
-Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
-Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
-Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
+Todos los perros son mamíferos,TRUE,TRUE,1
+Algunos gatos no cazan ratones,FALSE,FALSE,4
+Ningún coche funciona sin combustible,TRUE,FALSE,3
+Ciertos estudiantes leen por las noches,FALSE,TRUE,2
 Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
-Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
-Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
-Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
-Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
-Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
-Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
-Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
-Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
-Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
-Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
-Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
-Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
-Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
-Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
-Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
-Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
-Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
-Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
-Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
-Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
-Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
-Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
-Todos los gatos son animales,TRUE,TRUE,Todos S son P
-Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
-Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
-Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
-Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
-Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
-Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
-Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
-Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
-Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
-Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
-Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
-Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
-Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
-Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
-Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
-Algunos vasos están sucios,TRUE,TRUE,Todos S son P
-Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
-Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
-Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
-Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
-Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
-Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
-Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
-Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
-Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
-Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
-Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
-Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
-Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
-Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
-Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
-Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
-Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
-Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
-Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
-Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
-Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
-Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
-Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
-Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
-Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
-Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
-Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
-Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
-Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
-Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
-Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
-Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
-Todos los gatos son animales,TRUE,FALSE,Ningún S es P
-Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
-Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
-Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
-Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
-Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
-Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
-Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
-Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
-Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
-Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
-Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
-Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
-Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
-Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
-Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
-Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
-Ningún fuego es frío,FALSE,TRUE,Algunos S son P
-Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
-Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
-Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
-Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
-Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
-Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
-Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
-Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
-Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
-Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
-Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
-Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
-Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
-Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
-Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
-Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
-Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
-Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
-Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
-Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
-Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
-Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
-Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
-Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
-Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
-Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
-Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
-Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
-Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
-Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
-Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
-Todos los gatos son animales,TRUE,TRUE,Todos S son P
-Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
-Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
-Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
-Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
-Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
-Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
-Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
-Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
-Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
-Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
-Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
-Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
-Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
-Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
-Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
-Algunos vasos están sucios,TRUE,TRUE,Todos S son P
-Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
-Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
-Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
-Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
-Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
-Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
-Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
-Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
-Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
-Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
-Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
-Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
-Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
-Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
-Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
-Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
-Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
-Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
-Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
-Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
-Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
-Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
-Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
-Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
-Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
-Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
-Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
-Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
-Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
-Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
-Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
-Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
-Todos los gatos son animales,TRUE,FALSE,Ningún S es P
-Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
-Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
-Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
-Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
-Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
-Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
-Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
-Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
-Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
-Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
-Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
-Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
-Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
-Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
-Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
-Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
-Ningún fuego es frío,FALSE,TRUE,Algunos S son P
-Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
-Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
-Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
-Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
-Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
-Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
-Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
-Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
-Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
-Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
-Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
-Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
-Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
-Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
-Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
-Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
-Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
-Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
-Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
-Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
-Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
-Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
-Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
-Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
-Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
-Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
-Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
-Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
-Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
-Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
-Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
-Todos los gatos son animales,TRUE,TRUE,Todos S son P
-Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
-Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
-Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
-Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
-Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
-Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
-Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
-Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
-Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
-Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
-Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
-Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
-Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
-Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
-Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
-Algunos vasos están sucios,TRUE,TRUE,Todos S son P
-Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
-Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
-Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
-Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
-Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
-Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
-Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
-Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
-Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
-Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
-Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
-Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
-Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
-Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
-Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
-Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
-Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
-Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
-Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
-Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
-Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
-Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
-Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
-Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
-Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
-Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
-Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
-Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
-Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
-Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
-Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
-Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
-Todos los gatos son animales,TRUE,FALSE,Ningún S es P
-Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
-Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
-Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
-Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
-Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
-Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
-Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
-Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
-Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
-Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
-Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
-Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
-Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
-Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
-Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
-Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
-Ningún fuego es frío,FALSE,TRUE,Algunos S son P
-Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
-Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
-Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
-Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
-Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
-Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
-Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
-Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
-Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
-Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
-Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
-Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
-Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
-Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
-Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
-Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
-Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
-Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
-Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
-Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
-Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
-Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
-Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
-Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
-Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
-Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
-Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
-Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
-Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
-Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
-Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
-Todos los gatos son animales,TRUE,TRUE,Todos S son P
-Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
-Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
-Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
-Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
-Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
-Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
-Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
-Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
-Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
-Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
-Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
-Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
-Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
-Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
-Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
-Algunos vasos están sucios,TRUE,TRUE,Todos S son P
-Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
-Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
-Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
-Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
-Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
-Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
-Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
-Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
-Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
-Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
-Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
-Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
-Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
-Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
-Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
-Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
-Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
-Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
-Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
-Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
-Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
-Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
-Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
-Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
-Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
-Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
-Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
-Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
-Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
-Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
-Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
-Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
-Todos los gatos son animales,TRUE,FALSE,Ningún S es P
-Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
-Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
-Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
-Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
-Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
-Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
-Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
-Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
-Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
-Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
-Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
-Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
-Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
-Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
-Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
-Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
-Ningún fuego es frío,FALSE,TRUE,Algunos S son P
-Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
-Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
-Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
-Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
-Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
-Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
-Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
-Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
-Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
-Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
-Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
-Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
-Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
-Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
-Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
-Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
-Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
-Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
-Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
-Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
-Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
-Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
-Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
-Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
-Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
-Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
-Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
-Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
-Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
-Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
-Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
-Todos los gatos son animales,TRUE,TRUE,Todos S son P
-Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
-Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
-Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
-Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
-Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
-Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
-Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
-Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
-Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
-Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
-Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
-Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
-Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
-Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
-Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
-Algunos vasos están sucios,TRUE,TRUE,Todos S son P
-Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
-Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
-Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
-Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
-Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
-Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
-Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
-Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
-Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
-Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
-Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
-Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
-Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
-Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
-Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
-Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
-Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
-Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
-Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
-Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
-Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
-Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
-Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
-Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
-Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
-Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
-Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
-Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
-Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
-Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
-Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
-Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
-Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
-Todos los gatos son animales,TRUE,FALSE,Ningún S es P
-Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
-Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
-Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
-Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
-Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
-Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
-Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
-Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
-Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
-Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
-Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
-Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
-Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
-Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
-Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
-Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
-Ningún fuego es frío,FALSE,TRUE,Algunos S son P
-Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
-Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
-Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
-Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
+Algunos niños no comen verduras,FALSE,FALSE,4
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,3
+Todos los relojes marcan el tiempo,FALSE,TRUE,2
+Algunos pájaros cantan al amanecer,TRUE,TRUE,1
+Ninguna lámpara rota da luz,FALSE,FALSE,4
+Todos los trenes llevan pasajeros,TRUE,FALSE,3
+Algunos zapatos no son de cuero,FALSE,TRUE,2
+Ningún helado caliente es agradable,TRUE,TRUE,1
+Todas las montañas tienen cimas,FALSE,FALSE,4
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,3
+Ningún vaso vacío está lleno,FALSE,TRUE,2
+Todos los peces viven en el agua,TRUE,TRUE,1
+Algunos coches no usan gasolina,FALSE,FALSE,4
+Ningún reloj sin pila funciona,TRUE,FALSE,3
+Todas las casas tienen techo,FALSE,TRUE,2
+Ciertos perros ladran mucho,TRUE,TRUE,1
+Ningún lápiz roto escribe bien,FALSE,FALSE,4
+Todos los libros tienen páginas,TRUE,FALSE,3
+Algunos amigos no dicen la verdad,FALSE,TRUE,2
+Ningún río seco tiene peces,TRUE,TRUE,1
+Todas las bicicletas tienen ruedas,FALSE,FALSE,4
+Algunos relojes no son digitales,TRUE,FALSE,3
+Ningún coche volador existe en la ciudad,FALSE,TRUE,2
+Todos los gatos son animales,TRUE,TRUE,1
+Algunos teléfonos no tienen cámara,FALSE,FALSE,4
+Ninguna noche es más corta que un minuto,TRUE,FALSE,3
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,2
+Ciertos zapatos aprietan,TRUE,TRUE,1
+Ningún verano es frío en el desierto,FALSE,FALSE,4
+Todos los lápices sirven para escribir,TRUE,FALSE,3
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,2
+Ningún avión de papel vuela lejos,TRUE,TRUE,1
+Todas las nubes tienen agua,FALSE,FALSE,4
+Algunos vecinos ayudan,TRUE,FALSE,3
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,2
+Todos los zapatos cubren los pies,TRUE,TRUE,1
+Algunos relojes no funcionan,FALSE,FALSE,4
+Ningún árbol muerto da frutos,TRUE,FALSE,3
+Todas las ciudades tienen calles,FALSE,TRUE,2
+Algunos vasos están sucios,TRUE,TRUE,1
+Ningún fuego es frío,FALSE,FALSE,4
+Todas las llaves abren cerraduras,TRUE,FALSE,3
+Algunos amigos no se ven seguido,FALSE,TRUE,2
+Ningún día sin sol es claro,TRUE,TRUE,1
+Todas las frutas tienen semillas,FALSE,FALSE,4
+Todos los perros son mamíferos,TRUE,FALSE,3
+Algunos gatos no cazan ratones,FALSE,TRUE,2
+Ningún coche funciona sin combustible,TRUE,TRUE,1
+Ciertos estudiantes leen por las noches,FALSE,FALSE,4
+Todas las plantas necesitan agua,TRUE,FALSE,3
+Algunos niños no comen verduras,FALSE,TRUE,2
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,1
+Todos los relojes marcan el tiempo,FALSE,FALSE,4
+Algunos pájaros cantan al amanecer,TRUE,FALSE,3
+Ninguna lámpara rota da luz,FALSE,TRUE,2
+Todos los trenes llevan pasajeros,TRUE,TRUE,1
+Algunos zapatos no son de cuero,FALSE,FALSE,4
+Ningún helado caliente es agradable,TRUE,FALSE,3
+Todas las montañas tienen cimas,FALSE,TRUE,2
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,1
+Ningún vaso vacío está lleno,FALSE,FALSE,4
+Todos los peces viven en el agua,TRUE,FALSE,3
+Algunos coches no usan gasolina,FALSE,TRUE,2
+Ningún reloj sin pila funciona,TRUE,TRUE,1
+Todas las casas tienen techo,FALSE,FALSE,4
+Ciertos perros ladran mucho,TRUE,FALSE,3
+Ningún lápiz roto escribe bien,FALSE,TRUE,2
+Todos los libros tienen páginas,TRUE,TRUE,1
+Algunos amigos no dicen la verdad,FALSE,FALSE,4
+Ningún río seco tiene peces,TRUE,FALSE,3
+Todas las bicicletas tienen ruedas,FALSE,TRUE,2
+Algunos relojes no son digitales,TRUE,TRUE,1
+Ningún coche volador existe en la ciudad,FALSE,FALSE,4
+Todos los gatos son animales,TRUE,FALSE,3
+Algunos teléfonos no tienen cámara,FALSE,TRUE,2
+Ninguna noche es más corta que un minuto,TRUE,TRUE,1
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,4
+Ciertos zapatos aprietan,TRUE,FALSE,3
+Ningún verano es frío en el desierto,FALSE,TRUE,2
+Todos los lápices sirven para escribir,TRUE,TRUE,1
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,4
+Ningún avión de papel vuela lejos,TRUE,FALSE,3
+Todas las nubes tienen agua,FALSE,TRUE,2
+Algunos vecinos ayudan,TRUE,TRUE,1
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,4
+Todos los zapatos cubren los pies,TRUE,FALSE,3
+Algunos relojes no funcionan,FALSE,TRUE,2
+Ningún árbol muerto da frutos,TRUE,TRUE,1
+Todas las ciudades tienen calles,FALSE,FALSE,4
+Algunos vasos están sucios,TRUE,FALSE,3
+Ningún fuego es frío,FALSE,TRUE,2
+Todas las llaves abren cerraduras,TRUE,TRUE,1
+Algunos amigos no se ven seguido,FALSE,FALSE,4
+Ningún día sin sol es claro,TRUE,FALSE,3
+Todas las frutas tienen semillas,FALSE,TRUE,2
+Todos los perros son mamíferos,TRUE,TRUE,1
+Algunos gatos no cazan ratones,FALSE,FALSE,4
+Ningún coche funciona sin combustible,TRUE,FALSE,3
+Ciertos estudiantes leen por las noches,FALSE,TRUE,2
+Todas las plantas necesitan agua,TRUE,TRUE,1
+Algunos niños no comen verduras,FALSE,FALSE,4
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,3
+Todos los relojes marcan el tiempo,FALSE,TRUE,2
+Algunos pájaros cantan al amanecer,TRUE,TRUE,1
+Ninguna lámpara rota da luz,FALSE,FALSE,4
+Todos los trenes llevan pasajeros,TRUE,FALSE,3
+Algunos zapatos no son de cuero,FALSE,TRUE,2
+Ningún helado caliente es agradable,TRUE,TRUE,1
+Todas las montañas tienen cimas,FALSE,FALSE,4
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,3
+Ningún vaso vacío está lleno,FALSE,TRUE,2
+Todos los peces viven en el agua,TRUE,TRUE,1
+Algunos coches no usan gasolina,FALSE,FALSE,4
+Ningún reloj sin pila funciona,TRUE,FALSE,3
+Todas las casas tienen techo,FALSE,TRUE,2
+Ciertos perros ladran mucho,TRUE,TRUE,1
+Ningún lápiz roto escribe bien,FALSE,FALSE,4
+Todos los libros tienen páginas,TRUE,FALSE,3
+Algunos amigos no dicen la verdad,FALSE,TRUE,2
+Ningún río seco tiene peces,TRUE,TRUE,1
+Todas las bicicletas tienen ruedas,FALSE,FALSE,4
+Algunos relojes no son digitales,TRUE,FALSE,3
+Ningún coche volador existe en la ciudad,FALSE,TRUE,2
+Todos los gatos son animales,TRUE,TRUE,1
+Algunos teléfonos no tienen cámara,FALSE,FALSE,4
+Ninguna noche es más corta que un minuto,TRUE,FALSE,3
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,2
+Ciertos zapatos aprietan,TRUE,TRUE,1
+Ningún verano es frío en el desierto,FALSE,FALSE,4
+Todos los lápices sirven para escribir,TRUE,FALSE,3
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,2
+Ningún avión de papel vuela lejos,TRUE,TRUE,1
+Todas las nubes tienen agua,FALSE,FALSE,4
+Algunos vecinos ayudan,TRUE,FALSE,3
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,2
+Todos los zapatos cubren los pies,TRUE,TRUE,1
+Algunos relojes no funcionan,FALSE,FALSE,4
+Ningún árbol muerto da frutos,TRUE,FALSE,3
+Todas las ciudades tienen calles,FALSE,TRUE,2
+Algunos vasos están sucios,TRUE,TRUE,1
+Ningún fuego es frío,FALSE,FALSE,4
+Todas las llaves abren cerraduras,TRUE,FALSE,3
+Algunos amigos no se ven seguido,FALSE,TRUE,2
+Ningún día sin sol es claro,TRUE,TRUE,1
+Todas las frutas tienen semillas,FALSE,FALSE,4
+Todos los perros son mamíferos,TRUE,FALSE,3
+Algunos gatos no cazan ratones,FALSE,TRUE,2
+Ningún coche funciona sin combustible,TRUE,TRUE,1
+Ciertos estudiantes leen por las noches,FALSE,FALSE,4
+Todas las plantas necesitan agua,TRUE,FALSE,3
+Algunos niños no comen verduras,FALSE,TRUE,2
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,1
+Todos los relojes marcan el tiempo,FALSE,FALSE,4
+Algunos pájaros cantan al amanecer,TRUE,FALSE,3
+Ninguna lámpara rota da luz,FALSE,TRUE,2
+Todos los trenes llevan pasajeros,TRUE,TRUE,1
+Algunos zapatos no son de cuero,FALSE,FALSE,4
+Ningún helado caliente es agradable,TRUE,FALSE,3
+Todas las montañas tienen cimas,FALSE,TRUE,2
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,1
+Ningún vaso vacío está lleno,FALSE,FALSE,4
+Todos los peces viven en el agua,TRUE,FALSE,3
+Algunos coches no usan gasolina,FALSE,TRUE,2
+Ningún reloj sin pila funciona,TRUE,TRUE,1
+Todas las casas tienen techo,FALSE,FALSE,4
+Ciertos perros ladran mucho,TRUE,FALSE,3
+Ningún lápiz roto escribe bien,FALSE,TRUE,2
+Todos los libros tienen páginas,TRUE,TRUE,1
+Algunos amigos no dicen la verdad,FALSE,FALSE,4
+Ningún río seco tiene peces,TRUE,FALSE,3
+Todas las bicicletas tienen ruedas,FALSE,TRUE,2
+Algunos relojes no son digitales,TRUE,TRUE,1
+Ningún coche volador existe en la ciudad,FALSE,FALSE,4
+Todos los gatos son animales,TRUE,FALSE,3
+Algunos teléfonos no tienen cámara,FALSE,TRUE,2
+Ninguna noche es más corta que un minuto,TRUE,TRUE,1
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,4
+Ciertos zapatos aprietan,TRUE,FALSE,3
+Ningún verano es frío en el desierto,FALSE,TRUE,2
+Todos los lápices sirven para escribir,TRUE,TRUE,1
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,4
+Ningún avión de papel vuela lejos,TRUE,FALSE,3
+Todas las nubes tienen agua,FALSE,TRUE,2
+Algunos vecinos ayudan,TRUE,TRUE,1
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,4
+Todos los zapatos cubren los pies,TRUE,FALSE,3
+Algunos relojes no funcionan,FALSE,TRUE,2
+Ningún árbol muerto da frutos,TRUE,TRUE,1
+Todas las ciudades tienen calles,FALSE,FALSE,4
+Algunos vasos están sucios,TRUE,FALSE,3
+Ningún fuego es frío,FALSE,TRUE,2
+Todas las llaves abren cerraduras,TRUE,TRUE,1
+Algunos amigos no se ven seguido,FALSE,FALSE,4
+Ningún día sin sol es claro,TRUE,FALSE,3
+Todas las frutas tienen semillas,FALSE,TRUE,2
+Todos los perros son mamíferos,TRUE,TRUE,1
+Algunos gatos no cazan ratones,FALSE,FALSE,4
+Ningún coche funciona sin combustible,TRUE,FALSE,3
+Ciertos estudiantes leen por las noches,FALSE,TRUE,2
+Todas las plantas necesitan agua,TRUE,TRUE,1
+Algunos niños no comen verduras,FALSE,FALSE,4
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,3
+Todos los relojes marcan el tiempo,FALSE,TRUE,2
+Algunos pájaros cantan al amanecer,TRUE,TRUE,1
+Ninguna lámpara rota da luz,FALSE,FALSE,4
+Todos los trenes llevan pasajeros,TRUE,FALSE,3
+Algunos zapatos no son de cuero,FALSE,TRUE,2
+Ningún helado caliente es agradable,TRUE,TRUE,1
+Todas las montañas tienen cimas,FALSE,FALSE,4
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,3
+Ningún vaso vacío está lleno,FALSE,TRUE,2
+Todos los peces viven en el agua,TRUE,TRUE,1
+Algunos coches no usan gasolina,FALSE,FALSE,4
+Ningún reloj sin pila funciona,TRUE,FALSE,3
+Todas las casas tienen techo,FALSE,TRUE,2
+Ciertos perros ladran mucho,TRUE,TRUE,1
+Ningún lápiz roto escribe bien,FALSE,FALSE,4
+Todos los libros tienen páginas,TRUE,FALSE,3
+Algunos amigos no dicen la verdad,FALSE,TRUE,2
+Ningún río seco tiene peces,TRUE,TRUE,1
+Todas las bicicletas tienen ruedas,FALSE,FALSE,4
+Algunos relojes no son digitales,TRUE,FALSE,3
+Ningún coche volador existe en la ciudad,FALSE,TRUE,2
+Todos los gatos son animales,TRUE,TRUE,1
+Algunos teléfonos no tienen cámara,FALSE,FALSE,4
+Ninguna noche es más corta que un minuto,TRUE,FALSE,3
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,2
+Ciertos zapatos aprietan,TRUE,TRUE,1
+Ningún verano es frío en el desierto,FALSE,FALSE,4
+Todos los lápices sirven para escribir,TRUE,FALSE,3
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,2
+Ningún avión de papel vuela lejos,TRUE,TRUE,1
+Todas las nubes tienen agua,FALSE,FALSE,4
+Algunos vecinos ayudan,TRUE,FALSE,3
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,2
+Todos los zapatos cubren los pies,TRUE,TRUE,1
+Algunos relojes no funcionan,FALSE,FALSE,4
+Ningún árbol muerto da frutos,TRUE,FALSE,3
+Todas las ciudades tienen calles,FALSE,TRUE,2
+Algunos vasos están sucios,TRUE,TRUE,1
+Ningún fuego es frío,FALSE,FALSE,4
+Todas las llaves abren cerraduras,TRUE,FALSE,3
+Algunos amigos no se ven seguido,FALSE,TRUE,2
+Ningún día sin sol es claro,TRUE,TRUE,1
+Todas las frutas tienen semillas,FALSE,FALSE,4
+Todos los perros son mamíferos,TRUE,FALSE,3
+Algunos gatos no cazan ratones,FALSE,TRUE,2
+Ningún coche funciona sin combustible,TRUE,TRUE,1
+Ciertos estudiantes leen por las noches,FALSE,FALSE,4
+Todas las plantas necesitan agua,TRUE,FALSE,3
+Algunos niños no comen verduras,FALSE,TRUE,2
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,1
+Todos los relojes marcan el tiempo,FALSE,FALSE,4
+Algunos pájaros cantan al amanecer,TRUE,FALSE,3
+Ninguna lámpara rota da luz,FALSE,TRUE,2
+Todos los trenes llevan pasajeros,TRUE,TRUE,1
+Algunos zapatos no son de cuero,FALSE,FALSE,4
+Ningún helado caliente es agradable,TRUE,FALSE,3
+Todas las montañas tienen cimas,FALSE,TRUE,2
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,1
+Ningún vaso vacío está lleno,FALSE,FALSE,4
+Todos los peces viven en el agua,TRUE,FALSE,3
+Algunos coches no usan gasolina,FALSE,TRUE,2
+Ningún reloj sin pila funciona,TRUE,TRUE,1
+Todas las casas tienen techo,FALSE,FALSE,4
+Ciertos perros ladran mucho,TRUE,FALSE,3
+Ningún lápiz roto escribe bien,FALSE,TRUE,2
+Todos los libros tienen páginas,TRUE,TRUE,1
+Algunos amigos no dicen la verdad,FALSE,FALSE,4
+Ningún río seco tiene peces,TRUE,FALSE,3
+Todas las bicicletas tienen ruedas,FALSE,TRUE,2
+Algunos relojes no son digitales,TRUE,TRUE,1
+Ningún coche volador existe en la ciudad,FALSE,FALSE,4
+Todos los gatos son animales,TRUE,FALSE,3
+Algunos teléfonos no tienen cámara,FALSE,TRUE,2
+Ninguna noche es más corta que un minuto,TRUE,TRUE,1
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,4
+Ciertos zapatos aprietan,TRUE,FALSE,3
+Ningún verano es frío en el desierto,FALSE,TRUE,2
+Todos los lápices sirven para escribir,TRUE,TRUE,1
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,4
+Ningún avión de papel vuela lejos,TRUE,FALSE,3
+Todas las nubes tienen agua,FALSE,TRUE,2
+Algunos vecinos ayudan,TRUE,TRUE,1
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,4
+Todos los zapatos cubren los pies,TRUE,FALSE,3
+Algunos relojes no funcionan,FALSE,TRUE,2
+Ningún árbol muerto da frutos,TRUE,TRUE,1
+Todas las ciudades tienen calles,FALSE,FALSE,4
+Algunos vasos están sucios,TRUE,FALSE,3
+Ningún fuego es frío,FALSE,TRUE,2
+Todas las llaves abren cerraduras,TRUE,TRUE,1
+Algunos amigos no se ven seguido,FALSE,FALSE,4
+Ningún día sin sol es claro,TRUE,FALSE,3
+Todas las frutas tienen semillas,FALSE,TRUE,2
+Todos los perros son mamíferos,TRUE,TRUE,1
+Algunos gatos no cazan ratones,FALSE,FALSE,4
+Ningún coche funciona sin combustible,TRUE,FALSE,3
+Ciertos estudiantes leen por las noches,FALSE,TRUE,2
+Todas las plantas necesitan agua,TRUE,TRUE,1
+Algunos niños no comen verduras,FALSE,FALSE,4
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,3
+Todos los relojes marcan el tiempo,FALSE,TRUE,2
+Algunos pájaros cantan al amanecer,TRUE,TRUE,1
+Ninguna lámpara rota da luz,FALSE,FALSE,4
+Todos los trenes llevan pasajeros,TRUE,FALSE,3
+Algunos zapatos no son de cuero,FALSE,TRUE,2
+Ningún helado caliente es agradable,TRUE,TRUE,1
+Todas las montañas tienen cimas,FALSE,FALSE,4
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,3
+Ningún vaso vacío está lleno,FALSE,TRUE,2
+Todos los peces viven en el agua,TRUE,TRUE,1
+Algunos coches no usan gasolina,FALSE,FALSE,4
+Ningún reloj sin pila funciona,TRUE,FALSE,3
+Todas las casas tienen techo,FALSE,TRUE,2
+Ciertos perros ladran mucho,TRUE,TRUE,1
+Ningún lápiz roto escribe bien,FALSE,FALSE,4
+Todos los libros tienen páginas,TRUE,FALSE,3
+Algunos amigos no dicen la verdad,FALSE,TRUE,2
+Ningún río seco tiene peces,TRUE,TRUE,1
+Todas las bicicletas tienen ruedas,FALSE,FALSE,4
+Algunos relojes no son digitales,TRUE,FALSE,3
+Ningún coche volador existe en la ciudad,FALSE,TRUE,2
+Todos los gatos son animales,TRUE,TRUE,1
+Algunos teléfonos no tienen cámara,FALSE,FALSE,4
+Ninguna noche es más corta que un minuto,TRUE,FALSE,3
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,2
+Ciertos zapatos aprietan,TRUE,TRUE,1
+Ningún verano es frío en el desierto,FALSE,FALSE,4
+Todos los lápices sirven para escribir,TRUE,FALSE,3
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,2
+Ningún avión de papel vuela lejos,TRUE,TRUE,1
+Todas las nubes tienen agua,FALSE,FALSE,4
+Algunos vecinos ayudan,TRUE,FALSE,3
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,2
+Todos los zapatos cubren los pies,TRUE,TRUE,1
+Algunos relojes no funcionan,FALSE,FALSE,4
+Ningún árbol muerto da frutos,TRUE,FALSE,3
+Todas las ciudades tienen calles,FALSE,TRUE,2
+Algunos vasos están sucios,TRUE,TRUE,1
+Ningún fuego es frío,FALSE,FALSE,4
+Todas las llaves abren cerraduras,TRUE,FALSE,3
+Algunos amigos no se ven seguido,FALSE,TRUE,2
+Ningún día sin sol es claro,TRUE,TRUE,1
+Todas las frutas tienen semillas,FALSE,FALSE,4
+Todos los perros son mamíferos,TRUE,FALSE,3
+Algunos gatos no cazan ratones,FALSE,TRUE,2
+Ningún coche funciona sin combustible,TRUE,TRUE,1
+Ciertos estudiantes leen por las noches,FALSE,FALSE,4
+Todas las plantas necesitan agua,TRUE,FALSE,3
+Algunos niños no comen verduras,FALSE,TRUE,2
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,1
+Todos los relojes marcan el tiempo,FALSE,FALSE,4
+Algunos pájaros cantan al amanecer,TRUE,FALSE,3
+Ninguna lámpara rota da luz,FALSE,TRUE,2
+Todos los trenes llevan pasajeros,TRUE,TRUE,1
+Algunos zapatos no son de cuero,FALSE,FALSE,4
+Ningún helado caliente es agradable,TRUE,FALSE,3
+Todas las montañas tienen cimas,FALSE,TRUE,2
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,1
+Ningún vaso vacío está lleno,FALSE,FALSE,4
+Todos los peces viven en el agua,TRUE,FALSE,3
+Algunos coches no usan gasolina,FALSE,TRUE,2
+Ningún reloj sin pila funciona,TRUE,TRUE,1
+Todas las casas tienen techo,FALSE,FALSE,4
+Ciertos perros ladran mucho,TRUE,FALSE,3
+Ningún lápiz roto escribe bien,FALSE,TRUE,2
+Todos los libros tienen páginas,TRUE,TRUE,1
+Algunos amigos no dicen la verdad,FALSE,FALSE,4
+Ningún río seco tiene peces,TRUE,FALSE,3
+Todas las bicicletas tienen ruedas,FALSE,TRUE,2
+Algunos relojes no son digitales,TRUE,TRUE,1
+Ningún coche volador existe en la ciudad,FALSE,FALSE,4
+Todos los gatos son animales,TRUE,FALSE,3
+Algunos teléfonos no tienen cámara,FALSE,TRUE,2
+Ninguna noche es más corta que un minuto,TRUE,TRUE,1
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,4
+Ciertos zapatos aprietan,TRUE,FALSE,3
+Ningún verano es frío en el desierto,FALSE,TRUE,2
+Todos los lápices sirven para escribir,TRUE,TRUE,1
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,4
+Ningún avión de papel vuela lejos,TRUE,FALSE,3
+Todas las nubes tienen agua,FALSE,TRUE,2
+Algunos vecinos ayudan,TRUE,TRUE,1
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,4
+Todos los zapatos cubren los pies,TRUE,FALSE,3
+Algunos relojes no funcionan,FALSE,TRUE,2
+Ningún árbol muerto da frutos,TRUE,TRUE,1
+Todas las ciudades tienen calles,FALSE,FALSE,4
+Algunos vasos están sucios,TRUE,FALSE,3
+Ningún fuego es frío,FALSE,TRUE,2
+Todas las llaves abren cerraduras,TRUE,TRUE,1
+Algunos amigos no se ven seguido,FALSE,FALSE,4
+Ningún día sin sol es claro,TRUE,FALSE,3
+Todas las frutas tienen semillas,FALSE,TRUE,2
+Todos los perros son mamíferos,TRUE,TRUE,1
+Algunos gatos no cazan ratones,FALSE,FALSE,4
+Ningún coche funciona sin combustible,TRUE,FALSE,3
+Ciertos estudiantes leen por las noches,FALSE,TRUE,2
+Todas las plantas necesitan agua,TRUE,TRUE,1
+Algunos niños no comen verduras,FALSE,FALSE,4
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,3
+Todos los relojes marcan el tiempo,FALSE,TRUE,2
+Algunos pájaros cantan al amanecer,TRUE,TRUE,1
+Ninguna lámpara rota da luz,FALSE,FALSE,4
+Todos los trenes llevan pasajeros,TRUE,FALSE,3
+Algunos zapatos no son de cuero,FALSE,TRUE,2
+Ningún helado caliente es agradable,TRUE,TRUE,1
+Todas las montañas tienen cimas,FALSE,FALSE,4
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,3
+Ningún vaso vacío está lleno,FALSE,TRUE,2
+Todos los peces viven en el agua,TRUE,TRUE,1
+Algunos coches no usan gasolina,FALSE,FALSE,4
+Ningún reloj sin pila funciona,TRUE,FALSE,3
+Todas las casas tienen techo,FALSE,TRUE,2
+Ciertos perros ladran mucho,TRUE,TRUE,1
+Ningún lápiz roto escribe bien,FALSE,FALSE,4
+Todos los libros tienen páginas,TRUE,FALSE,3
+Algunos amigos no dicen la verdad,FALSE,TRUE,2
+Ningún río seco tiene peces,TRUE,TRUE,1
+Todas las bicicletas tienen ruedas,FALSE,FALSE,4
+Algunos relojes no son digitales,TRUE,FALSE,3
+Ningún coche volador existe en la ciudad,FALSE,TRUE,2
+Todos los gatos son animales,TRUE,TRUE,1
+Algunos teléfonos no tienen cámara,FALSE,FALSE,4
+Ninguna noche es más corta que un minuto,TRUE,FALSE,3
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,2
+Ciertos zapatos aprietan,TRUE,TRUE,1
+Ningún verano es frío en el desierto,FALSE,FALSE,4
+Todos los lápices sirven para escribir,TRUE,FALSE,3
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,2
+Ningún avión de papel vuela lejos,TRUE,TRUE,1
+Todas las nubes tienen agua,FALSE,FALSE,4
+Algunos vecinos ayudan,TRUE,FALSE,3
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,2
+Todos los zapatos cubren los pies,TRUE,TRUE,1
+Algunos relojes no funcionan,FALSE,FALSE,4
+Ningún árbol muerto da frutos,TRUE,FALSE,3
+Todas las ciudades tienen calles,FALSE,TRUE,2
+Algunos vasos están sucios,TRUE,TRUE,1
+Ningún fuego es frío,FALSE,FALSE,4
+Todas las llaves abren cerraduras,TRUE,FALSE,3
+Algunos amigos no se ven seguido,FALSE,TRUE,2
+Ningún día sin sol es claro,TRUE,TRUE,1
+Todas las frutas tienen semillas,FALSE,FALSE,4
+Todos los perros son mamíferos,TRUE,FALSE,3
+Algunos gatos no cazan ratones,FALSE,TRUE,2
+Ningún coche funciona sin combustible,TRUE,TRUE,1
+Ciertos estudiantes leen por las noches,FALSE,FALSE,4
+Todas las plantas necesitan agua,TRUE,FALSE,3
+Algunos niños no comen verduras,FALSE,TRUE,2
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,1
+Todos los relojes marcan el tiempo,FALSE,FALSE,4
+Algunos pájaros cantan al amanecer,TRUE,FALSE,3
+Ninguna lámpara rota da luz,FALSE,TRUE,2
+Todos los trenes llevan pasajeros,TRUE,TRUE,1
+Algunos zapatos no son de cuero,FALSE,FALSE,4
+Ningún helado caliente es agradable,TRUE,FALSE,3
+Todas las montañas tienen cimas,FALSE,TRUE,2
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,1
+Ningún vaso vacío está lleno,FALSE,FALSE,4
+Todos los peces viven en el agua,TRUE,FALSE,3
+Algunos coches no usan gasolina,FALSE,TRUE,2
+Ningún reloj sin pila funciona,TRUE,TRUE,1
+Todas las casas tienen techo,FALSE,FALSE,4
+Ciertos perros ladran mucho,TRUE,FALSE,3
+Ningún lápiz roto escribe bien,FALSE,TRUE,2
+Todos los libros tienen páginas,TRUE,TRUE,1
+Algunos amigos no dicen la verdad,FALSE,FALSE,4
+Ningún río seco tiene peces,TRUE,FALSE,3
+Todas las bicicletas tienen ruedas,FALSE,TRUE,2
+Algunos relojes no son digitales,TRUE,TRUE,1
+Ningún coche volador existe en la ciudad,FALSE,FALSE,4
+Todos los gatos son animales,TRUE,FALSE,3
+Algunos teléfonos no tienen cámara,FALSE,TRUE,2
+Ninguna noche es más corta que un minuto,TRUE,TRUE,1
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,4
+Ciertos zapatos aprietan,TRUE,FALSE,3
+Ningún verano es frío en el desierto,FALSE,TRUE,2
+Todos los lápices sirven para escribir,TRUE,TRUE,1
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,4
+Ningún avión de papel vuela lejos,TRUE,FALSE,3
+Todas las nubes tienen agua,FALSE,TRUE,2
+Algunos vecinos ayudan,TRUE,TRUE,1
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,4
+Todos los zapatos cubren los pies,TRUE,FALSE,3
+Algunos relojes no funcionan,FALSE,TRUE,2
+Ningún árbol muerto da frutos,TRUE,TRUE,1
+Todas las ciudades tienen calles,FALSE,FALSE,4
+Algunos vasos están sucios,TRUE,FALSE,3
+Ningún fuego es frío,FALSE,TRUE,2
+Todas las llaves abren cerraduras,TRUE,TRUE,1
+Algunos amigos no se ven seguido,FALSE,FALSE,4
+Ningún día sin sol es claro,TRUE,FALSE,3
+Todas las frutas tienen semillas,FALSE,TRUE,2
 Sentence,General,Affirmative,Structure
 Todos los perros son mamíferos,TRUE,TRUE,1
 Algunos gatos no cazan ratones,FALSE,FALSE,4
