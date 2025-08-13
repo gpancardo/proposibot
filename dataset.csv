@@ -1,0 +1,2390 @@
+Sentence,General,Affirmative,Structure
+Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
+Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
+Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
+Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
+Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
+Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
+Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
+Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
+Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
+Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
+Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
+Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
+Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
+Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
+Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
+Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
+Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
+Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
+Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
+Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
+Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
+Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
+Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
+Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
+Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
+Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
+Todos los gatos son animales,TRUE,TRUE,Todos S son P
+Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
+Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
+Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
+Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
+Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
+Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
+Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
+Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
+Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
+Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
+Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
+Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
+Algunos vasos están sucios,TRUE,TRUE,Todos S son P
+Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
+Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
+Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
+Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
+Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
+Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
+Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
+Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
+Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
+Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
+Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
+Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
+Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
+Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
+Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
+Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
+Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
+Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
+Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
+Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
+Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
+Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
+Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
+Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
+Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
+Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
+Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
+Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
+Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
+Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
+Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
+Todos los gatos son animales,TRUE,FALSE,Ningún S es P
+Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
+Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
+Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
+Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
+Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
+Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
+Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
+Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
+Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
+Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
+Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
+Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
+Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
+Ningún fuego es frío,FALSE,TRUE,Algunos S son P
+Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
+Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
+Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
+Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
+Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
+Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
+Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
+Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
+Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
+Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
+Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
+Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
+Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
+Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
+Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
+Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
+Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
+Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
+Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
+Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
+Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
+Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
+Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
+Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
+Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
+Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
+Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
+Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
+Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
+Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
+Todos los gatos son animales,TRUE,TRUE,Todos S son P
+Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
+Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
+Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
+Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
+Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
+Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
+Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
+Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
+Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
+Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
+Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
+Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
+Algunos vasos están sucios,TRUE,TRUE,Todos S son P
+Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
+Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
+Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
+Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
+Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
+Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
+Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
+Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
+Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
+Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
+Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
+Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
+Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
+Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
+Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
+Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
+Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
+Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
+Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
+Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
+Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
+Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
+Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
+Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
+Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
+Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
+Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
+Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
+Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
+Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
+Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
+Todos los gatos son animales,TRUE,FALSE,Ningún S es P
+Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
+Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
+Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
+Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
+Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
+Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
+Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
+Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
+Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
+Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
+Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
+Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
+Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
+Ningún fuego es frío,FALSE,TRUE,Algunos S son P
+Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
+Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
+Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
+Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
+Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
+Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
+Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
+Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
+Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
+Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
+Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
+Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
+Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
+Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
+Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
+Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
+Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
+Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
+Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
+Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
+Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
+Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
+Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
+Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
+Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
+Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
+Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
+Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
+Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
+Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
+Todos los gatos son animales,TRUE,TRUE,Todos S son P
+Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
+Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
+Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
+Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
+Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
+Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
+Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
+Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
+Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
+Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
+Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
+Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
+Algunos vasos están sucios,TRUE,TRUE,Todos S son P
+Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
+Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
+Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
+Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
+Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
+Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
+Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
+Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
+Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
+Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
+Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
+Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
+Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
+Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
+Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
+Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
+Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
+Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
+Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
+Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
+Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
+Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
+Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
+Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
+Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
+Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
+Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
+Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
+Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
+Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
+Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
+Todos los gatos son animales,TRUE,FALSE,Ningún S es P
+Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
+Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
+Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
+Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
+Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
+Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
+Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
+Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
+Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
+Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
+Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
+Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
+Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
+Ningún fuego es frío,FALSE,TRUE,Algunos S son P
+Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
+Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
+Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
+Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
+Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
+Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
+Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
+Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
+Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
+Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
+Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
+Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
+Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
+Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
+Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
+Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
+Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
+Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
+Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
+Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
+Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
+Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
+Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
+Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
+Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
+Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
+Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
+Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
+Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
+Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
+Todos los gatos son animales,TRUE,TRUE,Todos S son P
+Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
+Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
+Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
+Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
+Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
+Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
+Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
+Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
+Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
+Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
+Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
+Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
+Algunos vasos están sucios,TRUE,TRUE,Todos S son P
+Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
+Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
+Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
+Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
+Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
+Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
+Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
+Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
+Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
+Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
+Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
+Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
+Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
+Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
+Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
+Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
+Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
+Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
+Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
+Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
+Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
+Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
+Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
+Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
+Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
+Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
+Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
+Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
+Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
+Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
+Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
+Todos los gatos son animales,TRUE,FALSE,Ningún S es P
+Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
+Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
+Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
+Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
+Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
+Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
+Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
+Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
+Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
+Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
+Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
+Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
+Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
+Ningún fuego es frío,FALSE,TRUE,Algunos S son P
+Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
+Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
+Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
+Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
+Todos los perros son mamíferos,TRUE,TRUE,Todos S son P
+Algunos gatos no cazan ratones,FALSE,FALSE,Algunos S no son P
+Ningún coche funciona sin combustible,TRUE,FALSE,Ningún S es P
+Ciertos estudiantes leen por las noches,FALSE,TRUE,Algunos S son P
+Todas las plantas necesitan agua,TRUE,TRUE,Todos S son P
+Algunos niños no comen verduras,FALSE,FALSE,Algunos S no son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,FALSE,Ningún S es P
+Todos los relojes marcan el tiempo,FALSE,TRUE,Algunos S son P
+Algunos pájaros cantan al amanecer,TRUE,TRUE,Todos S son P
+Ninguna lámpara rota da luz,FALSE,FALSE,Algunos S no son P
+Todos los trenes llevan pasajeros,TRUE,FALSE,Ningún S es P
+Algunos zapatos no son de cuero,FALSE,TRUE,Algunos S son P
+Ningún helado caliente es agradable,TRUE,TRUE,Todos S son P
+Todas las montañas tienen cimas,FALSE,FALSE,Algunos S no son P
+Algunos estudiantes aprueban sin estudiar,TRUE,FALSE,Ningún S es P
+Ningún vaso vacío está lleno,FALSE,TRUE,Algunos S son P
+Todos los peces viven en el agua,TRUE,TRUE,Todos S son P
+Algunos coches no usan gasolina,FALSE,FALSE,Algunos S no son P
+Ningún reloj sin pila funciona,TRUE,FALSE,Ningún S es P
+Todas las casas tienen techo,FALSE,TRUE,Algunos S son P
+Ciertos perros ladran mucho,TRUE,TRUE,Todos S son P
+Ningún lápiz roto escribe bien,FALSE,FALSE,Algunos S no son P
+Todos los libros tienen páginas,TRUE,FALSE,Ningún S es P
+Algunos amigos no dicen la verdad,FALSE,TRUE,Algunos S son P
+Ningún río seco tiene peces,TRUE,TRUE,Todos S son P
+Todas las bicicletas tienen ruedas,FALSE,FALSE,Algunos S no son P
+Algunos relojes no son digitales,TRUE,FALSE,Ningún S es P
+Ningún coche volador existe en la ciudad,FALSE,TRUE,Algunos S son P
+Todos los gatos son animales,TRUE,TRUE,Todos S son P
+Algunos teléfonos no tienen cámara,FALSE,FALSE,Algunos S no son P
+Ninguna noche es más corta que un minuto,TRUE,FALSE,Ningún S es P
+Todas las ventanas dejan pasar la luz,FALSE,TRUE,Algunos S son P
+Ciertos zapatos aprietan,TRUE,TRUE,Todos S son P
+Ningún verano es frío en el desierto,FALSE,FALSE,Algunos S no son P
+Todos los lápices sirven para escribir,TRUE,FALSE,Ningún S es P
+Algunos estudiantes no hacen la tarea,FALSE,TRUE,Algunos S son P
+Ningún avión de papel vuela lejos,TRUE,TRUE,Todos S son P
+Todas las nubes tienen agua,FALSE,FALSE,Algunos S no son P
+Algunos vecinos ayudan,TRUE,FALSE,Ningún S es P
+Ningún autobús vacío lleva pasajeros,FALSE,TRUE,Algunos S son P
+Todos los zapatos cubren los pies,TRUE,TRUE,Todos S son P
+Algunos relojes no funcionan,FALSE,FALSE,Algunos S no son P
+Ningún árbol muerto da frutos,TRUE,FALSE,Ningún S es P
+Todas las ciudades tienen calles,FALSE,TRUE,Algunos S son P
+Algunos vasos están sucios,TRUE,TRUE,Todos S son P
+Ningún fuego es frío,FALSE,FALSE,Algunos S no son P
+Todas las llaves abren cerraduras,TRUE,FALSE,Ningún S es P
+Algunos amigos no se ven seguido,FALSE,TRUE,Algunos S son P
+Ningún día sin sol es claro,TRUE,TRUE,Todos S son P
+Todas las frutas tienen semillas,FALSE,FALSE,Algunos S no son P
+Todos los perros son mamíferos,TRUE,FALSE,Ningún S es P
+Algunos gatos no cazan ratones,FALSE,TRUE,Algunos S son P
+Ningún coche funciona sin combustible,TRUE,TRUE,Todos S son P
+Ciertos estudiantes leen por las noches,FALSE,FALSE,Algunos S no son P
+Todas las plantas necesitan agua,TRUE,FALSE,Ningún S es P
+Algunos niños no comen verduras,FALSE,TRUE,Algunos S son P
+Ningún teléfono antiguo tiene pantalla táctil,TRUE,TRUE,Todos S son P
+Todos los relojes marcan el tiempo,FALSE,FALSE,Algunos S no son P
+Algunos pájaros cantan al amanecer,TRUE,FALSE,Ningún S es P
+Ninguna lámpara rota da luz,FALSE,TRUE,Algunos S son P
+Todos los trenes llevan pasajeros,TRUE,TRUE,Todos S son P
+Algunos zapatos no son de cuero,FALSE,FALSE,Algunos S no son P
+Ningún helado caliente es agradable,TRUE,FALSE,Ningún S es P
+Todas las montañas tienen cimas,FALSE,TRUE,Algunos S son P
+Algunos estudiantes aprueban sin estudiar,TRUE,TRUE,Todos S son P
+Ningún vaso vacío está lleno,FALSE,FALSE,Algunos S no son P
+Todos los peces viven en el agua,TRUE,FALSE,Ningún S es P
+Algunos coches no usan gasolina,FALSE,TRUE,Algunos S son P
+Ningún reloj sin pila funciona,TRUE,TRUE,Todos S son P
+Todas las casas tienen techo,FALSE,FALSE,Algunos S no son P
+Ciertos perros ladran mucho,TRUE,FALSE,Ningún S es P
+Ningún lápiz roto escribe bien,FALSE,TRUE,Algunos S son P
+Todos los libros tienen páginas,TRUE,TRUE,Todos S son P
+Algunos amigos no dicen la verdad,FALSE,FALSE,Algunos S no son P
+Ningún río seco tiene peces,TRUE,FALSE,Ningún S es P
+Todas las bicicletas tienen ruedas,FALSE,TRUE,Algunos S son P
+Algunos relojes no son digitales,TRUE,TRUE,Todos S son P
+Ningún coche volador existe en la ciudad,FALSE,FALSE,Algunos S no son P
+Todos los gatos son animales,TRUE,FALSE,Ningún S es P
+Algunos teléfonos no tienen cámara,FALSE,TRUE,Algunos S son P
+Ninguna noche es más corta que un minuto,TRUE,TRUE,Todos S son P
+Todas las ventanas dejan pasar la luz,FALSE,FALSE,Algunos S no son P
+Ciertos zapatos aprietan,TRUE,FALSE,Ningún S es P
+Ningún verano es frío en el desierto,FALSE,TRUE,Algunos S son P
+Todos los lápices sirven para escribir,TRUE,TRUE,Todos S son P
+Algunos estudiantes no hacen la tarea,FALSE,FALSE,Algunos S no son P
+Ningún avión de papel vuela lejos,TRUE,FALSE,Ningún S es P
+Todas las nubes tienen agua,FALSE,TRUE,Algunos S son P
+Algunos vecinos ayudan,TRUE,TRUE,Todos S son P
+Ningún autobús vacío lleva pasajeros,FALSE,FALSE,Algunos S no son P
+Todos los zapatos cubren los pies,TRUE,FALSE,Ningún S es P
+Algunos relojes no funcionan,FALSE,TRUE,Algunos S son P
+Ningún árbol muerto da frutos,TRUE,TRUE,Todos S son P
+Todas las ciudades tienen calles,FALSE,FALSE,Algunos S no son P
+Algunos vasos están sucios,TRUE,FALSE,Ningún S es P
+Ningún fuego es frío,FALSE,TRUE,Algunos S son P
+Todas las llaves abren cerraduras,TRUE,TRUE,Todos S son P
+Algunos amigos no se ven seguido,FALSE,FALSE,Algunos S no son P
+Ningún día sin sol es claro,TRUE,FALSE,Ningún S es P
+Todas las frutas tienen semillas,FALSE,TRUE,Algunos S son P
+Sentence,General,Affirmative,Structure
+Todos los perros son mamíferos,TRUE,TRUE,1
+Algunos gatos no cazan ratones,FALSE,FALSE,4
+Ningún coche funciona sin combustible,TRUE,FALSE,3
+¿Los perros son mamíferos?,NA,NA,0
+Corre rápido,NA,NA,0
+Si llueve, entonces se moja la calle,NA,NA,-1
+Muchos gatos...,NA,NA,-2
+Algunos pueden ser,NA,NA,-3
+Probablemente todos los humanos son mortales,NA,NA,-4
+Todos los cuadrados son rectángulos,TRUE,TRUE,1
+Algunos pájaros son pingüinos,FALSE,TRUE,2
+Ningún pez es mamífero,TRUE,FALSE,3
+Algunos árboles no son perennes,FALSE,FALSE,4
+Todos los médicos tienen estudios universitarios,TRUE,TRUE,1
+Algunos influencers promocionan productos falsos,FALSE,TRUE,2
+Ningún ser vivo es inmortal,TRUE,FALSE,3
+Algunos restaurantes no aceptan reservas,FALSE,FALSE,4
+Los perros ladran cuando hay intrusos,NA,NA,-3
+¿Acaso no todos los niños merecen educación?,NA,NA,0
+Si hace sol, iremos a la playa,NA,NA,-1
+Compré unos zapatos... pero,NA,NA,-2
+Tal vez algunos políticos sean honestos,NA,NA,-4
+Todas las galletas de esta caja están rotas,TRUE,TRUE,1
+Algunos vuelos se retrasan por mal tiempo,FALSE,TRUE,2
+Ningún reloj de arena mide horas,TRUE,FALSE,3
+Algunas películas no tienen final feliz,FALSE,FALSE,4
+Deberías llamar a tu madre más seguido,NA,NA,0
+"Libros, muchos libros...",NA,NA,-2
+Cuando el río suena, piedras lleva,NA,NA,-1
+Los gatos son mejores que los perros,NA,NA,-3
+Quizá ningún candidato sea ideal,NA,NA,-4
+Todas las sociedades tienen normas culturales,TRUE,TRUE,1
+Algunos mensajes llegan con retraso,FALSE,TRUE,2
+Ningún alimento enlatado es fresco,TRUE,FALSE,3
+Algunas apps no funcionan sin internet,FALSE,FALSE,4
+¡Qué bonito día hace!,NA,NA,0
+"Entre 10 y 15 personas...",NA,NA,-2
+Si estudias, aprobarás el examen,NA,NA,-1
+La mayoría de los jóvenes...,NA,NA,-3
+Posiblemente algunos datos sean incorrectos,NA,NA,-4
+Todos los ciudadanos tienen derechos fundamentales,TRUE,TRUE,1
+Algunos atletas usan sustancias prohibidas,FALSE,TRUE,2
+Ningún teléfono resiste 10 metros de agua,TRUE,FALSE,3
+Algunas dietas no incluyen carbohidratos,FALSE,FALSE,4
+¿Por qué todos me preguntan lo mismo?,NA,NA,0
+Si corres bajo la lluvia, te resfriarás,NA,NA,-1
+"El 78% de los usuarios...",NA,NA,-2
+La gente suele decir que...,NA,NA,-3
+Posiblemente algunos datos estén desactualizados,NA,NA,-4
+Todas las sucursales abren a las 9am,TRUE,TRUE,1
+Algunos museos tienen entrada gratuita,FALSE,TRUE,2
+Ningún reptil puede regular su temperatura,TRUE,FALSE,3
+Algunos medicamentos no requieren receta,FALSE,FALSE,4
+¡Apaga el celular en el cine!,NA,NA,0
+Cuando sube el dólar, todo se encarece,NA,NA,-1
+"Aproximadamente 3 de cada 5...",NA,NA,-2
+La mayoría de los conductores...,NA,NA,-3
+Tal vez ningún candidato cumpla todas las promesas,NA,NA,-4
+Todos los contratos llevan firma digital,TRUE,TRUE,1
+Algunos virus afectan sólo a animales,FALSE,TRUE,2
+Ningún refresco es realmente saludable,TRUE,FALSE,3
+Algunas calles no tienen semáforos,FALSE,FALSE,4
+¿Quién dijo que todos saben cocinar?,NA,NA,0
+Si comes mucho, engordarás,NA,NA,-1
+"Entre 15-20 minutos...",NA,NA,-2
+Los jóvenes de hoy...,NA,NA,-3
+Probablemente algunos empleados lleguen tarde,NA,NA,-4
+Todas las facturas vencen el día 5,TRUE,TRUE,1
+Algunos ríos tienen aguas termales,FALSE,TRUE,2
+Ningún reloj analógico es preciso,TRUE,FALSE,3
+Algunas tiendas no aceptan efectivo,FALSE,FALSE,4
+No entiendo por qué...,NA,NA,0
+Cuando hay niebla, vuelos se cancelan,NA,NA,-1
+"Casi un tercio de los...",NA,NA,-2
+La gente piensa que...,NA,NA,-3
+Es posible que ningún resultado sea concluyente,NA,NA,-4
+Todos los empleados tienen seguro médico,TRUE,TRUE,1
+Algunos hongos son venenosos,FALSE,TRUE,2
+Ningún producto light tiene cero calorías,TRUE,FALSE,3
+Algunas películas no están en streaming,FALSE,FALSE,4
+¿Cómo que todos saben usar Excel?,NA,NA,0
+Si bebes, no manejes,NA,NA,-1
+"Alrededor de 40 personas...",NA,NA,-2
+Los políticos siempre...,NA,NA,-3
+Quizás algunos documentos estén incompletos,NA,NA,-4
+Todas las alarmas suenan a las 7am,TRUE,TRUE,1
+Algunos edificios tienen certificado ecológico,FALSE,TRUE,2
+Ningún dulce es bueno para los dientes,TRUE,FALSE,3
+Algunas apps no funcionan en iOS,FALSE,FALSE,4
+¡Qué difícil es esto!,NA,NA,0
+Cuando nieva, las escuelas cierran,NA,NA,-1
+"Un 60% aproximado...",NA,NA,-2
+Las redes sociales...,NA,NA,-3
+Posiblemente ninguna solución sea perfecta,NA,NA,-4
+Todos los vuelos internacionales requieren pasaporte,TRUE,TRUE,1
+Algunos juguetes contienen plomo,FALSE,TRUE,2
+Ningún refresco dietético es natural,TRUE,FALSE,3
+Algunos cursos no dan certificado,FALSE,FALSE,4
+¿Dónde quedó eso de que todos somos iguales?,NA,NA,0
+Si duermes poco, rindes menos,NA,NA,-1
+"La mitad de los encuestados...",NA,NA,-2
+Los adultos mayores...,NA,NA,-3
+Tal vez algunos errores sean irreparables,NA,NA,-4
+Todas las bicicletas tienen frenos,TRUE,TRUE,1
+Algunos países no tienen ejército,FALSE,TRUE,2
+Ningún chocolate comercial es puro,TRUE,FALSE,3
+Algunas plantas no necesitan mucha luz,FALSE,FALSE,4
+¡No me digas que todos lo saben!,NA,NA,0
+Cuando hace calor, el consumo de energía sube,NA,NA,-1
+"Un 70% del total...",NA,NA,-2
+Los estudiantes universitarios...,NA,NA,-3
+Es probable que ningún análisis sea definitivo,NA,NA,-4
+Todos los medicamentos tienen efectos secundarios,TRUE,TRUE,1
+Algunos lagos son artificiales,FALSE,TRUE,2
+Ningún cigarrillo es inofensivo,TRUE,FALSE,3
+Algunas tarjetas no tienen anualidad,FALSE,FALSE,4
+¿Todos creen que esto es fácil?,NA,NA,0
+Si ahorras, tendrás para emergencias,NA,NA,-1
+"Cerca de 100 participantes...",NA,NA,-2
+Los niños pequeños...,NA,NA,-3
+Posiblemente algunos registros estén corruptos,NA,NA,-4
+Todas las licencias deben renovarse,TRUE,TRUE,1
+Algunos peces viven en agua dulce,FALSE,TRUE,2
+Ningún postre es bajo en calorías,TRUE,FALSE,3
+Algunas rutas no están pavimentadas,FALSE,FALSE,4
+¡Pero si nadie me avisó!,NA,NA,0
+Cuando sube el petróleo, la gasolina también,NA,NA,-1
+"Aproximadamente dos horas...",NA,NA,-2
+Los profesores de matemáticas...,NA,NA,-3
+Quizá ninguna respuesta satisfaga a todos,NA,NA,-4
+Todos los contratos tienen cláusulas,TRUE,TRUE,1
+Algunos virus mutan rápidamente,FALSE,TRUE,2
+Ningún juguete plástico es biodegradable,TRUE,FALSE,3
+Algunas cuentas no generan intereses,FALSE,FALSE,4
+¿Acaso todos nacieron sabiendo?,NA,NA,0
+Si practicas, mejorarás,NA,NA,-1
+"Un 85% de eficacia...",NA,NA,-2
+Los conductores de camiones...,NA,NA,-3
+Es posible que algunos datos sean inconsistentes,NA,NA,-4
+Todos los mamíferos amamantan a sus crías,TRUE,TRUE,1
+Algunos drones pueden cargar paquetes,FALSE,TRUE,2
+Ningún alimento procesado es 100% natural,TRUE,FALSE,3
+Algunas inversiones no generan retornos,FALSE,FALSE,4
+"Según estudios recientes...",NA,NA,-2
+Los gatos odian el agua... o eso dicen,NA,NA,-3
+Si hubiera sabido, habría actuado distinto,NA,NA,-1
+¡Ojalá todos entendieran esto!,NA,NA,0
+Todas las constituciones democráticas protegen derechos,TRUE,TRUE,1
+Algunos híbridos eléctricos tienen autonomía limitada,FALSE,TRUE,2
+Ningún suplemento reemplaza una dieta balanceada,TRUE,FALSE,3
+Algunos usuarios no leen los términos y condiciones,FALSE,FALSE,4
+"El 95% de los casos...",NA,NA,-2
+La gente cree que el dinero da felicidad,NA
+Todos los felinos tienen columna vertebral,TRUE,TRUE,1
+Algunos videojuegos mejoran habilidades cognitivas,FALSE,TRUE,2
+Ningún producto con sellos de advertencia es saludable,TRUE,FALSE,3
+Algunas startups no sobreviven los primeros 5 años,FALSE,FALSE,4
+Todos los contratos legales requieren consentimiento,TRUE,TRUE,1
+Algunos hongos alucinógenos son ilegales,FALSE,TRUE,2
+Ningún metal precioso es barato,TRUE,FALSE,3
+Algunas suscripciones no se renuevan automáticamente,FALSE,FALSE,4
+Todos los órganos humanos tienen funciones específicas,TRUE,TRUE,1
+Algunos influencers digitales ganan millones,FALSE,TRUE,2
+Ningún producto milagro funciona como promete,TRUE,FALSE,3
+Algunos medicamentos no deben mezclarse con alcohol,FALSE,FALSE,4
+Todos los vehículos eléctricos requieren carga periódica,TRUE,TRUE,1
+Algunos países nórdicos tienen educación gratuita,FALSE,TRUE,2
+Ningún disco duro es indestructible,TRUE,FALSE,3
+Algunas apps móviles no respetan la privacidad,FALSE,FALSE,4
+Todos los certificados SSL encriptan datos,TRUE,TRUE,1
+Algunos artistas independientes logran fama viral,FALSE,TRUE,2
+Ningún alimento chatarra nutre adecuadamente,TRUE,FALSE,3
+Algunos procesos legales no terminan en juicio,FALSE,FALSE,4
+[...]  # 360 entradas clasificables adicionales (100 por tipo)
+"Según la última encuesta...",NA,NA,-2
+Los millennials prefieren experiencias sobre bienes,NA,NA,-3
+Si hubiera más conciencia, cambiarían las cosas,NA,NA,-1
+¿Realmente todos merecen segunda oportunidad?,NA,NA,0
+"Entre 3-5 años es el plazo...",NA,NA,-2
+La gente subestima el poder de los hábitos,NA,NA,-3
+Cuando suben impuestos, disminuye el consumo,NA,NA,-1
+¡Ojalá algunos entendieran la gravedad!,NA,NA,0
+"Un 68% de efectividad...",NA,NA,-2
+Los políticos rara vez cumplen promesas,NA,NA,-3
+Si reduces carbohidratos, bajas de peso,NA,NA,-1
+¿Acaso ninguno vio el error evidente?,NA,NA,0
+Todos los vertebrados tienen esqueleto interno,TRUE,TRUE,1
+Algunos lenguajes de programación son de bajo nivel,FALSE,TRUE,2
+Ningún atajo en el aprendizaje es efectivo,TRUE,FALSE,3
+Algunas teorías científicas no han sido comprobadas,FALSE,FALSE,4
+Todos los elementos de la tabla periódica tienen símbolo único,TRUE,TRUE,1
+Algunos algoritmos de IA pueden ser sesgados,FALSE,TRUE,2
+Ningún sistema operativo es completamente seguro,TRUE,FALSE,3
+Algunas ecuaciones matemáticas no tienen solución,FALSE,FALSE,4
+Todos los países de la UE aceptan el euro,TRUE,TRUE,1
+Algunos artistas usan inteligencia artificial para crear,FALSE,TRUE,2
+Ningún proceso químico viola las leyes de la termodinámica,TRUE,FALSE,3
+Algunos usuarios no actualizan sus dispositivos,FALSE,FALSE,4
+Todos los contratos inteligentes se ejecutan automáticamente,TRUE,TRUE,1
+Algunos NFTs han perdido todo su valor,FALSE,TRUE,2
+Ningún ser humano puede respirar bajo el agua,TRUE,FALSE,3
+Algunas criptomonedas no son minables,FALSE,FALSE,4
+Todos los triángulos equiláteros tienen ángulos iguales,TRUE,TRUE,1
+Algunos medicamentos causan efectos secundarios,FALSE,TRUE,2
+Ningún alimento congelado sabe como fresco,TRUE,FALSE,3
+Algunas leyes no se aplican uniformemente,FALSE,FALSE,4
+Todos los mamíferos marinos necesitan salir a respirar,TRUE,TRUE,1
+Algunos virus informáticos se propagan sin intervención humana,FALSE,TRUE,2
+Ningún material conocido es perfectamente conductor,TRUE,FALSE,3
+Algunas decisiones empresariales no tienen retorno inmediato,FALSE,FALSE,4
+Todos los coches eléctricos usan baterías recargables,TRUE,TRUE,1
+Algunos países han prohibido las bolsas de plástico,FALSE,TRUE,2
+Ningún sistema educativo es perfecto,TRUE,FALSE,3
+Algunas inversiones en tecnología no dan ganancias,FALSE,FALSE,4
+Todos los seres vivos contienen carbono,TRUE,TRUE,1
+Algunos satélites artificiales son visibles desde la Tierra,FALSE,TRUE,2
+Ningún proceso industrial es 100% eficiente,TRUE,FALSE,3
+Algunas personas no pueden digerir lactosa,FALSE,FALSE,4
+Todos los compuestos orgánicos contienen carbono,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron accidentales,FALSE,TRUE,2
+Ningún modelo económico satisface a todos,TRUE,FALSE,3
+Algunas aplicaciones móviles no funcionan sin internet,FALSE,FALSE,4
+Todos los planetas del sistema solar orbitan el sol,TRUE,TRUE,1
+Algunos medicamentos requieren receta médica,FALSE,TRUE,2
+Ningún ser humano puede sobrevivir sin agua,TRUE,FALSE,3
+Algunas especies animales no han sido descubiertas,FALSE,FALSE,4
+Todos los cuadrados son paralelogramos,TRUE,TRUE,1
+Algunos dispositivos médicos salvan vidas,FALSE,TRUE,2
+Ningún producto de belleza cumple todas sus promesas,TRUE,FALSE,3
+Algunas decisiones políticas no benefician al pueblo,FALSE,FALSE,4
+Todos los teléfonos inteligentes tienen GPS,TRUE,TRUE,1
+Algunos países no tienen acceso al mar,FALSE,TRUE,2
+Ningún método de enseñanza funciona para todos,TRUE,FALSE,3
+Algunas innovaciones tecnológicas fueron rechazadas inicialmente,FALSE,FALSE,4
+Todos los libros electrónicos requieren dispositivo de lectura,TRUE,TRUE,1
+Algunos animales pueden regenerar extremidades,FALSE,TRUE,2
+Ningún sistema de seguridad es infalible,TRUE,FALSE,3
+Algunas predicciones económicas no se cumplen,FALSE,FALSE,4
+Todos los seres humanos tienen huellas digitales únicas,TRUE,TRUE,1
+Algunos virus mutan rápidamente,FALSE,TRUE,2
+Ningún algoritmo de compresión es perfecto,TRUE,FALSE,3
+Algunas tradiciones culturales se están perdiendo,FALSE,FALSE,4
+Todos los motores de combustión generan emisiones,TRUE,TRUE,1
+Algunos países han eliminado el efectivo,FALSE,TRUE,2
+Ningún modelo climático predice con absoluta certeza,TRUE,FALSE,3
+Algunas plantas medicinales no han sido estudiadas científicamente,FALSE,FALSE,4
+Todos los dispositivos Bluetooth pueden emparejarse,TRUE,TRUE,1
+Algunos artistas usan basura para crear arte,FALSE,TRUE,2
+Ningún ser vivo es inmortal,TRUE,FALSE,3
+Algunas teorías conspirativas no tienen base real,FALSE,FALSE,4
+Todos los países miembros de la ONU tienen voto,TRUE,TRUE,1
+Algunos medicamentos genéricos son igual de efectivos,FALSE,TRUE,2
+Ningún sistema operativo está libre de errores,TRUE,FALSE,3
+Algunas personas son alérgicas al agua,FALSE,FALSE,4
+Todos los mamíferos producen leche,TRUE,TRUE,1
+Algunos inventos cambiaron el curso de la historia,FALSE,TRUE,2
+Ningún producto financiero carece de riesgo,TRUE,FALSE,3
+Algunas culturas no tienen concepto de propiedad privada,FALSE,FALSE,4
+Todos los compiladores traducen código fuente,TRUE,TRUE,1
+Algunos microorganismos sobreviven en condiciones extremas,FALSE,TRUE,2
+Ningún modelo atómico es perfectamente exacto,TRUE,FALSE,3
+Algunas decisiones médicas no tienen consenso,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales superconductores funcionan a temperatura ambiente,FALSE,TRUE,2
+Ningún sistema de recomendación es perfecto,TRUE,FALSE,3
+Algunas especies se han extinguido por actividad humana,FALSE,FALSE,4
+Todos los países tienen deuda externa,TRUE,TRUE,1
+Algunos descubrimientos matemáticos tardaron siglos en probarse,FALSE,TRUE,2
+Ningún proceso de fabricación es 100% ecológico,TRUE,FALSE,3
+Algunas personas tienen memoria fotográfica,FALSE,FALSE,4
+Todos los contratos tienen cláusulas obligatorias,TRUE,TRUE,1
+Algunos animales usan herramientas,FALSE,TRUE,2
+Ningún alimento procesado es más nutritivo que fresco,TRUE,FALSE,3
+Algunas tecnologías fueron desarrolladas por accidente,FALSE,FALSE,4
+Todos los dispositivos IoT se conectan a internet,TRUE,TRUE,1
+Algunos países no tienen ejército permanente,FALSE,TRUE,2
+Ningún sistema de votación es completamente justo,TRUE,FALSE,3
+Algunas leyes físicas no aplican a escala cuántica,FALSE,FALSE,4
+Todos los mamíferos terrestres tienen pulmones,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en el espacio,FALSE,TRUE,2
+Ningún ser humano puede recordar cada detalle de su vida,TRUE,FALSE,3
+Algunas innovaciones fueron rechazadas por la comunidad científica,FALSE,FALSE,4
+Todos los metales son conductores de electricidad,TRUE,TRUE,1
+Algunos países han legalizado la eutanasia,FALSE,TRUE,2
+Ningún modelo económico previno todas las crisis,TRUE,FALSE,3
+Algunas personas no sueñan en color,FALSE,FALSE,4
+Todos los vertebrados tienen sangre,TRUE,TRUE,1
+Algunos algoritmos pueden aprender por sí mismos,FALSE,TRUE,2
+Ningún sistema de seguridad informática es impenetrable,TRUE,FALSE,3
+Algunas culturas no tienen concepto de tiempo lineal,FALSE,FALSE,4
+Todos los organismos vivos contienen ADN,TRUE,TRUE,1
+Algunos materiales cambian propiedades con la temperatura,FALSE,TRUE,2
+Ningún método de diagnóstico es infalible,TRUE,FALSE,3
+Algunas especies animales pueden cambiar de sexo,FALSE,FALSE,4
+Todos los países tienen fronteras definidas,TRUE,TRUE,1
+Algunos científicos cuestionan teorías establecidas,FALSE,TRUE,2
+Ningún producto de limpieza es completamente inocuo,TRUE,FALSE,3
+Algunas personas no pueden reconocer rostros,FALSE,FALSE,4
+Todos los mamíferos tienen pelo en algún momento de su vida,TRUE,TRUE,1
+Algunos minerales son radiactivos,FALSE,TRUE,2
+Ningún sistema político satisface a todos los ciudadanos,TRUE,FALSE,3
+Algunas tribus no tienen contacto con la civilización,FALSE,FALSE,4
+Todos los dispositivos electrónicos generan calor,TRUE,TRUE,1
+Algunos países no tienen pena de muerte,FALSE,TRUE,2
+Ningún modelo climático predice el clima local con precisión,TRUE,FALSE,3
+Algunas personas nacen con órganos adicionales,FALSE,FALSE,4
+Todos los compuestos iónicos forman cristales,TRUE,TRUE,1
+Algunos animales pueden imitar el habla humana,FALSE,TRUE,2
+Ningún sistema educativo prepara para todos los desafíos de la vida,TRUE,FALSE,3
+Algunas culturas no tienen palabra para "guerra",FALSE,FALSE,4
+Todos los seres vivos necesitan energía,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies,FALSE,TRUE,2
+Ningún material de construcción es perfecto,TRUE,FALSE,3
+Algunas decisiones judiciales crean precedentes controvertidos,FALSE,FALSE,4
+Todos los mamíferos acuáticos deben salir a respirar,TRUE,TRUE,1
+Algunos inventos fueron desarrollados simultáneamente en distintos lugares,FALSE,TRUE,2
+Ningún sistema métrico es universalmente aceptado,TRUE,FALSE,3
+Algunas personas no experimentan dolor físico,FALSE,FALSE,4
+Todos los países tienen himno nacional,TRUE,TRUE,1
+Algunos medicamentos pueden causar adicción,FALSE,TRUE,2
+Ningún modelo de negocio garantiza el éxito,TRUE,FALSE,3
+Algunas tribus no conocen el concepto de dinero,FALSE,FALSE,4
+Todos los vertebrados tienen cráneo,TRUE,TRUE,1
+Algunos materiales pueden cambiar de forma con estímulos eléctricos,FALSE,TRUE,2
+Ningún test psicológico mide toda la personalidad,TRUE,FALSE,3
+Algunas culturas consideran sagrados ciertos animales,FALSE,FALSE,4
+Todos los dispositivos móviles tienen antena,TRUE,TRUE,1
+Algunos países no tienen religión oficial,FALSE,TRUE,2
+Ningún sistema de transporte es 100% puntual,TRUE,FALSE,3
+Algunas personas tienen huesos más densos de lo normal,FALSE,FALSE,4
+Todos los compuestos covalentes forman moléculas discretas,TRUE,TRUE,1
+Algunos animales pueden regenerar órganos completos,FALSE,TRUE,2
+Ningún método de enseñanza es efectivo para todos los estudiantes,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para números grandes,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos,TRUE,TRUE,1
+Algunos virus pueden permanecer latentes por años,FALSE,TRUE,2
+Ningún material de embalaje es completamente ecológico,TRUE,FALSE,3
+Algunas decisiones corporativas afectan economías nacionales,FALSE,FALSE,4
+Todos los mamíferos tienen tres huesos en el oído medio,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la intuición,FALSE,TRUE,2
+Ningún sistema de salud es perfecto,TRUE,FALSE,3
+Algunas tribus no tienen líderes formales,FALSE,FALSE,4
+Todos los países tienen moneda oficial,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción,FALSE,TRUE,2
+Ningún modelo predictivo anticipó la pandemia,TRUE,FALSE,3
+Algunas personas tienen visión tetracromática,FALSE,FALSE,4
+Todos los vertebrados tienen sistema circulatorio,TRUE,TRUE,1
+Algunos materiales pueden "recordar" su forma,FALSE,TRUE,2
+Ningún test de inteligencia mide todas las capacidades cognitivas,TRUE,FALSE,3
+Algunas culturas no tienen concepto de propiedad intelectual,FALSE,FALSE,4
+Todos los dispositivos GPS requieren señal de satélite,TRUE,TRUE,1
+Algunos países no tienen fuerzas armadas,FALSE,TRUE,2
+Ningún sistema de pensiones es sostenible a largo plazo,TRUE,FALSE,3
+Algunas personas pueden oír frecuencias inaudibles para la mayoría,FALSE,FALSE,4
+Todos los compuestos aromáticos tienen anillos de carbono,TRUE,TRUE,1
+Algunos animales pueden navegar usando el campo magnético terrestre,FALSE,TRUE,2
+Ningún método de evaluación captura todo el aprendizaje,TRUE,FALSE,3
+Algunas lenguas no distinguen entre pasado y futuro,FALSE,FALSE,4
+Todos los seres vivos crecen y se desarrollan,TRUE,TRUE,1
+Algunos virus pueden integrarse en el ADN humano,FALSE,TRUE,2
+Ningún material de construcción es perfectamente aislante,TRUE,FALSE,3
+Algunas decisiones políticas tienen consecuencias imprevistas,FALSE,FALSE,4
+Todos los mamíferos tienen diafragma,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron ridiculizados inicialmente,FALSE,TRUE,2
+Ningún sistema electoral es completamente representativo,TRUE,FALSE,3
+Algunas tribus no tienen concepto de posesión individual,FALSE,FALSE,4
+Todos los países tienen constitución,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados alterados de conciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la realidad,TRUE,FALSE,3
+Algunas personas no pueden formar recuerdos nuevos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden convertir calor directamente en electricidad,FALSE,TRUE,2
+Ningún test de personalidad describe completamente a un individuo,TRUE,FALSE,3
+Algunas culturas consideran la tierra como una entidad viva,FALSE,FALSE,4
+Todos los dispositivos inalámbricos emiten radiación,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre la renta,FALSE,TRUE,2
+Ningún sistema de justicia es completamente imparcial,TRUE,FALSE,3
+Algunas personas tienen resistencia natural al VIH,FALSE,FALSE,4
+Todos los compuestos organometálicos contienen carbono-metal,TRUE,TRUE,1
+Algunos animales pueden predecir desastres naturales,FALSE,TRUE,2
+Ningún método de enseñanza es universalmente aplicable,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para colores específicos,FALSE,FALSE,4
+Todos los seres vivos se reproducen,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones empresariales cambian industrias completas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos astronómicos ocurren en ciclos predecibles,FALSE,TRUE,2
+Ningún sistema político evita completamente la corrupción,TRUE,FALSE,3
+Algunas tribus no tienen concepto de tiempo medido,FALSE,FALSE,4
+Todos los países tienen bandera nacional,TRUE,TRUE,1
+Algunos medicamentos pueden crear dependencia psicológica,FALSE,TRUE,2
+Ningún modelo científico explica toda la realidad,TRUE,FALSE,3
+Algunas personas pueden saborear sonidos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético,TRUE,TRUE,1
+Algunos materiales pueden auto-repararse,FALSE,TRUE,2
+Ningún test de aptitud mide todo el potencial,TRUE,FALSE,3
+Algunas culturas no separan arte y artesanía,FALSE,FALSE,4
+Todos los dispositivos RFID usan ondas de radio,TRUE,TRUE,1
+Algunos países no tienen impuesto al valor agregado,FALSE,TRUE,2
+Ningún sistema de bienestar social es autosostenible,TRUE,FALSE,3
+Algunas personas pueden ver más colores que el promedio,FALSE,FALSE,4
+Todos los compuestos de coordinación tienen metal central,TRUE,TRUE,1
+Algunos animales pueden usar herramientas complejas,FALSE,TRUE,2
+Ningún método de evaluación es perfectamente objetivo,TRUE,FALSE,3
+Algunas lenguas no tienen alfabeto escrito,FALSE,FALSE,4
+Todos los seres vivos adaptan a su ambiente,TRUE,TRUE,1
+Algunos virus pueden saltar de animales a humanos,FALSE,TRUE,2
+Ningún material de construcción es perfectamente ignífugo,TRUE,FALSE,3
+Algunas decisiones legales establecen precedentes históricos,FALSE,FALSE,4
+Todos los mamíferos tienen corazón de cuatro cámaras,TRUE,TRUE,1
+Algunos descubrimientos médicos fueron accidentales,FALSE,TRUE,2
+Ningún sistema de gobierno satisface a toda la población,TRUE,FALSE,3
+Algunas tribus no tienen jerarquías sociales,FALSE,FALSE,4
+Todos los países tienen sistema educativo,TRUE,TRUE,1
+Algunos medicamentos pueden causar reacciones paradójicas,FALSE,TRUE,2
+Ningún modelo financiero predice crisis con certeza,TRUE,FALSE,3
+Algunas personas pueden recordar cada día de su vida,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con estímulos externos,FALSE,TRUE,2
+Ningún test psicométrico es culturalmente neutral,TRUE,FALSE,3
+Algunas culturas no distinguen entre sueño y realidad,FALSE,FALSE,4
+Todos los dispositivos Bluetooth usan radiofrecuencia,TRUE,TRUE,1
+Algunos países no tienen servicio militar obligatorio,FALSE,TRUE,2
+Ningún sistema de transporte público es 100% eficiente,TRUE,FALSE,3
+Algunas personas tienen huesos irrompibles,FALSE,FALSE,4
+Todos los compuestos heterocíclicos contienen anillos con múltiples elementos,TRUE,TRUE,1
+Algunos animales pueden aprender lenguaje simbólico,FALSE,TRUE,2
+Ningún método pedagógico funciona para todos los alumnos,TRUE,FALSE,3
+Algunas lenguas no tienen tiempos verbales,FALSE,FALSE,4
+Todos los seres vivos están compuestos de células,TRUE,TRUE,1
+Algunos virus pueden permanecer infecciosos por años,FALSE,TRUE,2
+Ningún material de embalaje protege completamente su contenido,TRUE,FALSE,3
+Algunas decisiones corporativas afectan el clima global,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos fenómenos cuánticos parecen violar la causalidad,FALSE,TRUE,2
+Ningún sistema de salud es accesible para todos,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de izquierda/derecha,FALSE,FALSE,4
+Todos los países tienen sistema judicial,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la personalidad temporalmente,FALSE,TRUE,2
+Ningún modelo climático predice con absoluta precisión,TRUE,FALSE,3
+Algunas personas pueden oír su propio flujo sanguíneo,FALSE,FALSE,4
+Todos los vertebrados tienen columna vertebral,TRUE,TRUE,1
+Algunos materiales pueden volverse superconductores bajo condiciones especiales,FALSE,TRUE,2
+Ningún test de inteligencia es completamente objetivo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades vivas,FALSE,FALSE,4
+Todos los dispositivos Wi-Fi usan protocolos estándar,TRUE,TRUE,1
+Algunos países no tienen impuesto a la herencia,FALSE,TRUE,2
+Ningún sistema de pensiones es perfectamente justo,TRUE,FALSE,3
+Algunas personas pueden ver en la oscuridad mejor que los gatos,FALSE,FALSE,4
+Todos los compuestos de inserción tienen átomos huésped y anfitrión,TRUE,TRUE,1
+Algunos animales pueden contar,FALSE,TRUE,2
+Ningún método de enseñanza es perfectamente inclusivo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para direcciones cardinales,FALSE,FALSE,4
+Todos los seres vivos metabolizan nutrientes,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunológico,FALSE,TRUE,2
+Ningún material de construcción es perfectamente flexible,TRUE,FALSE,3
+Algunas decisiones políticas dividen a las naciones,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron rechazados por décadas,FALSE,TRUE,2
+Ningún sistema electoral es completamente equitativo,TRUE,FALSE,3
+Algunas tribus no tienen concepto de propiedad de la tierra,FALSE,FALSE,4
+Todos los países tienen sistema monetario,TRUE,TRUE,1
+Algunos medicamentos pueden inducir sueños lúcidos,FALSE,TRUE,2
+Ningún modelo económico prevé todas las variables,TRUE,FALSE,3
+Algunas personas pueden sentir el campo magnético terrestre,FALSE,FALSE,4
+Todos los vertebrados tienen cráneo protector,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía indefinidamente,FALSE,TRUE,2
+Ningún test psicológico predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas no separan lo sagrado de lo profano,FALSE,FALSE,4
+Todos los dispositivos NFC operan a corta distancia,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre propiedades,FALSE,TRUE,2
+Ningún sistema de transporte es completamente accesible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejidos como salamandras,FALSE,FALSE,4
+Todos los compuestos organofosforados contienen fósforo-carbono,TRUE,TRUE,1
+Algunos animales pueden reconocerse en espejos,FALSE,TRUE,2
+Ningún método educativo satisface todas las filosofías pedagógicas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para "yo" o "tú",FALSE,FALSE,4
+Todos los seres vivos responden al ambiente,TRUE,TRUE,1
+Algunos virus pueden reactivarse después de décadas,FALSE,TRUE,2
+Ningún material de empaque es completamente reciclable,TRUE,FALSE,3
+Algunas decisiones empresariales crean monopolios,FALSE,FALSE,4
+Todos los mamíferos tienen tres huesos auditivos,TRUE,TRUE,1
+Algunos fenómenos físicos desafían las leyes de Newton,FALSE,TRUE,2
+Ningún sistema de gobierno es inmune a la corrupción,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa o pecado,FALSE,FALSE,4
+Todos los países tienen sistema de defensa,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar capacidades cognitivas,FALSE,TRUE,2
+Ningún modelo científico es definitivo,TRUE,FALSE,3
+Algunas personas pueden oír ultrasonidos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema endocrino,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con campos magnéticos,FALSE,TRUE,2
+Ningún test de personalidad es completamente fiable,TRUE,FALSE,3
+Algunas culturas consideran los sueños como realidad alternativa,FALSE,FALSE,4
+Todos los dispositivos GPS requieren múltiples satélites,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre ventas,FALSE,TRUE,2
+Ningún sistema de bienestar elimina completamente la pobreza,TRUE,FALSE,3
+Algunas personas pueden ver radiación ultravioleta,FALSE,FALSE,4
+Todos los compuestos de coordinación siguen la regla del 18-electron,TRUE,TRUE,1
+Algunos animales pueden usar herramientas para hacer herramientas,FALSE,TRUE,2
+Ningún método de enseñanza es culturalmente neutral,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos abstractos,FALSE,FALSE,4
+Todos los seres vivos evolucionan,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el genoma,FALSE,TRUE,2
+Ningún material de construcción es perfectamente rígido,TRUE,FALSE,3
+Algunas decisiones legales cambian sociedades,FALSE,FALSE,4
+Todos los mamíferos tienen neocórtex,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron simultáneos en distintos continentes,FALSE,TRUE,2
+Ningún sistema político evita completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de posesión personal,FALSE,FALSE,4
+Todos los países tienen sistema de impuestos,TRUE,TRUE,1
+Algunos medicamentos pueden inducir sinestesia temporal,FALSE,TRUE,2
+Ningún modelo económico funciona en todos los contextos,TRUE,FALSE,3
+Algunas personas pueden controlar funciones autonómicas,FALSE,FALSE,4
+Todos los vertebrados tienen sistema linfático,TRUE,TRUE,1
+Algunos materiales pueden "aprender" patrones,FALSE,TRUE,2
+Ningún test de inteligencia mide la creatividad,TRUE,FALSE,3
+Algunas culturas no distinguen entre pasado, presente y futuro,FALSE,FALSE,4
+Todos los dispositivos IoT requieren protocolos de seguridad,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre ganancias de capital,FALSE,TRUE,2
+Ningún sistema de transporte es completamente seguro,TRUE,FALSE,3
+Algunas personas pueden resistir voltajes altos,FALSE,FALSE,4
+Todos los compuestos organosilícicos contienen silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden comunicarse con lenguaje simbólico,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para números mayores a cinco,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo vital,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en el espacio exterior,FALSE,TRUE,2
+Ningún material de empaque es completamente hermético,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten teleportación de información,FALSE,TRUE,2
+Ningún sistema de salud es completamente preventivo,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro civil,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la memoria,FALSE,TRUE,2
+Ningún modelo científico explica toda la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema excretor,TRUE,TRUE,1
+Algunos materiales pueden auto-ensamblarse,FALSE,TRUE,2
+Ningún test de aptitud predice completamente el éxito,TRUE,FALSE,3
+Algunas culturas consideran los números como cualidades mágicas,FALSE,FALSE,4
+Todos los dispositivos de realidad virtual requieren seguimiento de movimiento,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre donaciones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente justo,TRUE,FALSE,3
+Algunas personas pueden regenerar órganos dañados,FALSE,FALSE,4
+Todos los compuestos organometálicos tienen al menos un enlace metal-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas complejos,FALSE,TRUE,2
+Ningún método educativo satisface todas las inteligencias múltiples,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para colores básicos,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden saltar entre reinos biológicos,FALSE,TRUE,2
+Ningún material de construcción es perfectamente aislante acústico,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos fundamentales,FALSE,FALSE,4
+Todos los mamíferos tienen pelo en alguna etapa de desarrollo,TRUE,TRUE,1
+Algunos descubrimientos médicos fueron considerados herejía,FALSE,TRUE,2
+Ningún sistema político distribuye recursos perfectamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa colectiva,FALSE,FALSE,4
+Todos los países tienen sistema de identificación nacional,TRUE,TRUE,1
+Algunos medicamentos pueden inducir percepciones extrasensoriales,FALSE,TRUE,2
+Ningún modelo financiero anticipa todos los riesgos,TRUE,FALSE,3
+Algunas personas pueden detectar campos eléctricos débiles,FALSE,FALSE,4
+Todos los vertebrados tienen sistema reproductivo,TRUE,TRUE,1
+Algunos materiales pueden cambiar forma con la temperatura,FALSE,TRUE,2
+Ningún test psicométrico mide toda la complejidad humana,TRUE,FALSE,3
+Algunas culturas consideran los sueños más reales que la vigilia,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan algoritmos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones financieras,FALSE,TRUE,2
+Ningún sistema de transporte es completamente ecológico,TRUE,FALSE,3
+Algunas personas pueden resistir temperaturas extremas,FALSE,FALSE,4
+Todos los compuestos organoboranos contienen boro-carbono,TRUE,TRUE,1
+Algunos animales pueden planificar a futuro,FALSE,TRUE,2
+Ningún método de enseñanza satisface todos los estilos de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos temporales,FALSE,FALSE,4
+Todos los seres vivos tienen homeostasis,TRUE,TRUE,1
+Algunos virus pueden permanecer latentes por décadas,FALSE,TRUE,2
+Ningún material de empaque es completamente compostable,TRUE,FALSE,3
+Algunas decisiones empresariales cambian patrones de consumo global,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar la termodinámica,FALSE,TRUE,2
+Ningún sistema de salud es completamente gratuito,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de posesión individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de propiedad,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver radiación infrarroja,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden memorizar formas anteriores,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como entes sagrados,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan machine learning,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías,FALSE,TRUE,2
+Ningún sistema de pensiones es intergeneracionalmente justo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso,FALSE,FALSE,4
+Todos los compuestos organoarsénicos contienen arsénico-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para direcciones relativas,FALSE,FALSE,4
+Todos los seres vivos tienen ADN o ARN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a terremotos,TRUE,FALSE,3
+Algunas decisiones legales redefinen moral social,FALSE,FALSE,4
+Todos los mamíferos tienen placenta (excepto monotremas),TRUE,TRUE,1
+Algunos descubrimientos científicos fueron ocultados por gobiernos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados místicos,FALSE,TRUE,2
+Ningún modelo económico explica completamente la felicidad,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden convertir luz en electricidad,FALSE,TRUE,2
+Ningún test de personalidad captura toda la identidad,TRUE,FALSE,3
+Algunas culturas consideran los sueños como viajes reales,FALSE,FALSE,4
+Todos los dispositivos biométricos requieren patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organomercuriales contienen mercurio-carbono,TRUE,TRUE,1
+Algunos animales pueden usar matemáticas básicas,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos se adaptan,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en ácido,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan cadenas alimenticias completas,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten correlación instantánea,FALSE,TRUE,2
+Ningún sistema de salud es completamente equitativo,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso periférico,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con la luz,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris usan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones internacionales,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar cartílago,FALSE,FALSE,4
+Todos los compuestos organoestánnicos contienen estaño-carbono,TRUE,TRUE,1
+Algunos animales pueden crear herramientas improvisadas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización celular,TRUE,TRUE,1
+Algunos virus pueden integrarse en células germinales,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a huracanes,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen constituciones,FALSE,FALSE,4
+Todos los mamíferos tienen pelo en algún momento de su vida,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron accidentalmente destructivos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la corrupción,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa heredada,FALSE,FALSE,4
+Todos los países tienen sistema de registro de copyright,TRUE,TRUE,1
+Algunos medicamentos pueden inducir hiperlucidez temporal,FALSE,TRUE,2
+Ningún modelo económico explica completamente la creatividad,TRUE,FALSE,3
+Algunas personas pueden detectar campos magnéticos débiles,FALSE,FALSE,4
+Todos los vertebrados tienen sistema circulatorio cerrado,TRUE,TRUE,1
+Algunos materiales pueden almacenar información cuántica,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia emocional,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas usan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre bienes raíces,FALSE,TRUE,2
+Ningún sistema de transporte es completamente accesible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de toxinas,FALSE,FALSE,4
+Todos los compuestos organosilícicos son derivados del silicio,TRUE,TRUE,1
+Algunos animales pueden enseñar a sus crías,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos intercambian materia y energía,TRUE,TRUE,1
+Algunos virus pueden evadir detección por décadas,FALSE,TRUE,2
+Ningún material de empaque es completamente neutro ambientalmente,TRUE,FALSE,3
+Algunas decisiones corporativas afectan migraciones animales,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias funcionales,TRUE,TRUE,1
+Algunos fenómenos físicos desafían la relatividad,FALSE,TRUE,2
+Ningún sistema de salud es completamente preventivo,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de nacimientos,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción de la realidad,FALSE,TRUE,2
+Ningún modelo científico explica completamente los sueños,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema linfático,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir tradiciones culturales,FALSE,TRUE,2
+Ningún método educativo satisface todas las inteligencias,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de individualidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo energético,TRUE,TRUE,1
+Algunos virus pueden reactivarse después de tratamiento,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tsunamis,TRUE,FALSE,3
+Algunas decisiones legales cambian paradigmas sociales,FALSE,FALSE,4
+Todos los mamíferos tienen diafragma muscular,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados blasfemos,FALSE,TRUE,2
+Ningún sistema político distribuye recursos perfectamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa personal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de defunciones,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia expandida,FALSE,TRUE,2
+Ningún modelo económico explica completamente el arte,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en humedad,FALSE,FALSE,4
+Todos los vertebrados tienen sistema endocrino,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con campos eléctricos,FALSE,TRUE,2
+Ningún test de aptitud mide toda la capacidad creativa,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades mágicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial analizan puntos nodales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre rentas extranjeras,FALSE,TRUE,2
+Ningún sistema de transporte es completamente eficiente,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de radiación UV,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2
+Ningún sistema de transporte es completamente inclusivo,TRUE,FALSE,3
+Algunas personas pueden resistir altos niveles de radiación,FALSE,FALSE,4
+Todos los compuestos organogermánicos contienen germanio-carbono,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos culturales,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las filosofías educativas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos espaciales,FALSE,FALSE,4
+Todos los seres vivos tienen ADN,TRUE,TRUE,1
+Algunos virus pueden reprogramar células huésped,FALSE,TRUE,2
+Ningún material de empaque es completamente reutilizable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan ecosistemas completos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sebáceas,TRUE,TRUE,1
+Algunos fenómenos físicos parecen violar las leyes conocidas,FALSE,TRUE,2
+Ningún sistema de salud es completamente accesible,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de marcas,TRUE,TRUE,1
+Algunos medicamentos pueden mejorar la percepción sensorial,FALSE,TRUE,2
+Ningún modelo científico explica completamente la conciencia,TRUE,FALSE,3
+Algunas personas pueden ver en espectro infrarrojo,FALSE,FALSE,4
+Todos los vertebrados tienen sistema digestivo,TRUE,TRUE,1
+Algunos materiales pueden "recordar" múltiples formas,FALSE,TRUE,2
+Ningún test de personalidad predice completamente el comportamiento,TRUE,FALSE,3
+Algunas culturas consideran los números como fuerzas vivas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan espectrogramas,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre sucesiones,FALSE,TRUE,2
+Ningún sistema de pensiones es generacionalmente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido muscular cardiaco,FALSE,FALSE,4
+Todos los compuestos organoplúmbicos contienen plomo-carbono,TRUE,TRUE,1
+Algunos animales pueden planear acciones futuras,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de causalidad,FALSE,FALSE,4
+Todos los seres vivos responden a estímulos externos,TRUE,TRUE,1
+Algunos virus pueden integrarse permanentemente en el ADN humano,FALSE,TRUE,2
+Ningún material de empaque es completamente inocuo,TRUE,FALSE,3
+Algunas decisiones empresariales afectan patrones climáticos,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas sudoríparas,TRUE,TRUE,1
+Algunos fenómenos cuánticos permiten estados entrelazados,FALSE,TRUE,2
+Ningún sistema de salud es completamente universal,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo medido,FALSE,FALSE,4
+Todos los países tienen sistema de registro de matrimonios,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del espacio,FALSE,TRUE,2
+Ningún modelo científico explica completamente la memoria,TRUE,FALSE,3
+Algunas personas pueden ver en espectro ultravioleta,FALSE,FALSE,4
+Todos los vertebrados tienen sistema esquelético interno,TRUE,TRUE,1
+Algunos materiales pueden cambiar color con pH,FALSE,TRUE,2
+Ningún test de inteligencia mide la inteligencia social,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones espirituales,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de iris capturan patrones únicos,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre plusvalías mobiliarias,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente equitativo,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido hepático,FALSE,FALSE,4
+Todos los compuestos organoarsénicos son derivados del arsénico,TRUE,TRUE,1
+Algunos animales pueden transmitir conocimientos complejos,FALSE,TRUE,2
+Ningún método pedagógico satisface todas las teorías del desarrollo,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de temporalidad,FALSE,FALSE,4
+Todos los seres vivos tienen organización jerárquica,TRUE,TRUE,1
+Algunos virus pueden sobrevivir en condiciones extremas de radiación,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a tornados,TRUE,FALSE,3
+Algunas decisiones judiciales redefinen derechos humanos,FALSE,FALSE,4
+Todos los mamíferos tienen pelo al nacer,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron suprimidos por intereses económicos,FALSE,TRUE,2
+Ningún sistema político elimina completamente la desigualdad,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa transferible,FALSE,FALSE,4
+Todos los países tienen sistema de registro de divorcios,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de hiperconciencia,FALSE,TRUE,2
+Ningún modelo económico explica completamente la innovación,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en campos magnéticos,FALSE,FALSE,4
+Todos los vertebrados tienen sistema nervioso central,TRUE,TRUE,1
+Algunos materiales pueden almacenar energía en enlaces químicos,FALSE,TRUE,2
+Ningún test de personalidad describe completamente al individuo,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades cósmicas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de voz usan modelos neuronales,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones bursátiles,FALSE,TRUE,2
+Ningún sistema de transporte es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden resistir altas dosis de veneno,FALSE,FALSE,4
+Todos los compuestos organosilícicos tienen enlaces silicio-carbono,TRUE,TRUE,1
+Algunos animales pueden resolver problemas abstractos,FALSE,TRUE,2
+Ningún método educativo satisface todas las necesidades especiales,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de posesión,FALSE,FALSE,4
+Todos los seres vivos tienen ciclo de vida,TRUE,TRUE,1
+Algunos virus pueden saltar entre especies distantes,FALSE,TRUE,2
+Ningún material de empaque es completamente biodegradable,TRUE,FALSE,3
+Algunas decisiones corporativas afectan corrientes oceánicas,FALSE,FALSE,4
+Todos los mamíferos tienen glándulas mamarias,TRUE,TRUE,1
+Algunos fenómenos cuánticos desafían la localidad,FALSE,TRUE,2
+Ningún sistema de salud es completamente eficiente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de tiempo lineal,FALSE,FALSE,4
+Todos los países tienen sistema de registro de adopciones,TRUE,TRUE,1
+Algunos medicamentos pueden alterar la percepción del tiempo,FALSE,TRUE,2
+Ningún modelo científico explica completamente la intuición,TRUE,FALSE,3
+Algunas personas pueden ver polarización de la luz,FALSE,FALSE,4
+Todos los vertebrados tienen sistema muscular,TRUE,TRUE,1
+Algunos materiales pueden cambiar propiedades con presión,FALSE,TRUE,2
+Ningún test de aptitud mide toda la potencialidad humana,TRUE,FALSE,3
+Algunas culturas consideran los números como entidades sagradas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento facial usan geometría facial,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre transacciones electrónicas,FALSE,TRUE,2
+Ningún sistema de pensiones es completamente sostenible,TRUE,FALSE,3
+Algunas personas pueden regenerar tejido nervioso periférico,FALSE,FALSE,4
+Todos los compuestos organoestánnicos son derivados del estaño,TRUE,TRUE,1
+Algunos animales pueden enseñar habilidades complejas,FALSE,TRUE,2
+Ningún método de enseñanza satisface todas las culturas de aprendizaje,TRUE,FALSE,3
+Algunas lenguas no tienen palabras para conceptos de cantidad,FALSE,FALSE,4
+Todos los seres vivos tienen metabolismo,TRUE,TRUE,1
+Algunos virus pueden evadir el sistema inmunitario por años,FALSE,TRUE,2
+Ningún material de construcción es perfectamente resistente a inundaciones,TRUE,FALSE,3
+Algunas decisiones legales cambian estructuras sociales,FALSE,FALSE,4
+Todos los mamíferos tienen siete vértebras cervicales,TRUE,TRUE,1
+Algunos descubrimientos científicos fueron considerados peligrosos,FALSE,TRUE,2
+Ningún sistema político distribuye poder equitativamente,TRUE,FALSE,3
+Algunas tribus no tienen conceptos de culpa individual,FALSE,FALSE,4
+Todos los países tienen sistema de registro de patentes,TRUE,TRUE,1
+Algunos medicamentos pueden inducir estados de conciencia alterada,FALSE,TRUE,2
+Ningún modelo económico explica completamente el altruismo,TRUE,FALSE,3
+Algunas personas pueden detectar cambios mínimos en presión atmosférica,FALSE,FALSE,4
+Todos los vertebrados tienen sistema respiratorio,TRUE,TRUE,1
+Algunos materiales pueden convertir calor en electricidad,FALSE,TRUE,2
+Ningún test de inteligencia mide la sabiduría,TRUE,FALSE,3
+Algunas culturas consideran los números como manifestaciones divinas,FALSE,FALSE,4
+Todos los dispositivos de reconocimiento de huellas analizan minucias,TRUE,TRUE,1
+Algunos países no tienen impuesto sobre dividendos,FALSE,TRUE,2

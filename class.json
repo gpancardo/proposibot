@@ -1,0 +1,31 @@
+{
+  "classification": {
+    "Structure": {
+      "positive_values": {
+        "1": "Todos S son P",
+        "2": "Algunos S son P",
+        "3": "Ningún S es P",
+        "4": "Algunos S no son P"
+      },
+      "neutral_value": {
+        "0": "No es proposición categórica"
+      },
+      "negative_values": {
+        "-1": "Proposición hipotética",
+        "-2": "Formato inválido",
+        "-3": "Contenido ambiguo",
+        "-4": "Modalidad no categórica"
+      }
+    },
+    "General": {
+      "TRUE": "Universal (Todos/Ningún)",
+      "FALSE": "Particular (Algunos)",
+      "NA": "No aplica"
+    },
+    "Affirmative": {
+      "TRUE": "Afirmativo",
+      "FALSE": "Negativo",
+      "NA": "No aplica"
+    }
+  }
+}
