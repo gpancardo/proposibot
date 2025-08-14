@@ -16,6 +16,13 @@ class Preprocessor:
         # Relation and negation
         self.relation_verbs = {'es', 'son', 'fue', 'fueron', 'sera', 'seran', 'seria', 'serian', 'ha sido', 'han sido', 'habra sido'}
         self.negation_terms = {'no', 'ni', 'nunca', 'jamas', 'sin'}
+
+        #Other relevant terms
+        self.preserve={
+            'el', 'la', 'los', 'las', 'un', 'una', 'unos', 'unas',
+            'y', 'o', 'ni', 'que', 'cual', 'cuyo', 'donde'
+        }
+
         
         # Removes non-useful stopwords
         self.stopwords_es = set(stopwords.words('spanish'))
@@ -28,7 +35,23 @@ class Preprocessor:
         text = text.lower()
         text = ''.join(
             c for c in unicodedata.normalize('NFD', text)
+            #Drops markers like accents
             if unicodedata.category(c) != 'Mn'
         )
-        return text
+        return self.no_special_chars.sub("", text)
+    
+    #Get subjet and predicate
+    def extract_terms(self, text):
+        # Applies normalization method and creates empty list of terms
+        tokens = self.normalize_text(text).split()
+        terms = []
         
+        #Saves relevant terms
+        for token in tokens:
+            if token in self.quantifiers or token in self.relation_verbs or token in self.negation_terms:
+                continue
+            if token in self.stopwords_es and token not in self.preserve_terms:
+                continue
+            terms.append(token)
+        
+        return terms
