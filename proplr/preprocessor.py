@@ -9,7 +9,7 @@ class Preprocessor:
     def __init__(self):
         self.no_special_chars = re.compile(r'[^\w\s]')
 
-        # Cuantificadores mapeados
+        #Quantifiers
         self.quantifiers = {
             'todos': 'CUANT_TODO', 'todas': 'CUANT_TODO', 'todo': 'CUANT_TODO', 'toda': 'CUANT_TODO',
             'ningun': 'CUANT_NINGUN', 'ninguna': 'CUANT_NINGUN', 'ningunos': 'CUANT_NINGUN', 'ningunas': 'CUANT_NINGUN',
@@ -20,10 +20,11 @@ class Preprocessor:
         self.relation_verbs = {'es', 'son', 'fue', 'fueron', 'sera', 'seran', 'seria', 'serian'}
         self.negation_terms = {'no', 'ni', 'nunca', 'jamas', 'sin'}
 
-        # Stopwords en español
+        # Stopwords - negation
         self.stopwords_es = {self.normalize_text(w) for w in stopwords.words('spanish')}
-        self.stopwords_es -= self.negation_terms  # mantener negaciones
+        self.stopwords_es -= self.negation_terms
     
+    # Normalization
     def normalize_text(self, text):
         text = text.lower()
         text = ''.join(
@@ -32,12 +33,12 @@ class Preprocessor:
         )
         return self.no_special_chars.sub("", text)
 
+    #Term extraction
     def extract_terms(self, text):
         tokens = self.normalize_text(text).split()
         terms = []
 
         for token in tokens:
-            # Mantener todo excepto stopwords irrelevantes
             if token in self.stopwords_es:
                 continue
             terms.append(token)
